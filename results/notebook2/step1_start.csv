@@ -1,0 +1,2 @@
+,accuracy,macro_f1,min_f1,meets_thresholds,folds_meeting_thresholds,seconds
+start_person1_best,0.5928052047455032,0.631060405690853,0.4472573839662447,True,5,14.487228501999999

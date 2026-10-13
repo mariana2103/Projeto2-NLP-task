@@ -1,0 +1,2 @@
+step,accuracy,macro_f1,min_f1,description_word,description_char,sample_name_word,sample_name_char,keywords_word,keywords_char,transcription_word,transcription_char
+start,0.596249521622656,0.6363400643636609,0.462882096069869,1.0,0.5,1.0,0.5,1.0,0.5,1.0,0.5

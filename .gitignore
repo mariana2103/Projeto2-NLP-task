@@ -1,0 +1,18 @@
+# Python / ambiente
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Modelos guardados (não vão na entrega; regeneram-se com o código)
+*.joblib
+
+# Projeto de referência de outro grupo (não é nosso, não vai na entrega)
+referencia/
+
+# LaTeX
+*.aux
+*.log
+*.synctex.gz
+*.bbl
+*.blg

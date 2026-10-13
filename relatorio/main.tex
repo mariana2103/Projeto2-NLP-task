@@ -1,0 +1,70 @@
+\documentclass[twocolumn,10pt]{article}
+
+\usepackage{authblk}
+\usepackage{bera}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{url}
+
+% TITLE
+\title{Title}
+
+% AUTHORS -- group number + percentage of each member's contribution (mandatory)
+\author{Group XXX: Mariana Neto (XX\%), Joana [apelido] (XX\%), Mariana Almeida (XX\%), Gonçalo [apelido] (XX\%)}
+%\affil{Instituto Superior Técnico, Universidade de Lisboa}
+
+\begin{document}
+
+\maketitle
+
+% 3 pages max (bibliography and the 1-page appendix do not count).
+% Formal English (no "it's"), no subjective adjectives, label and reference every figure/table,
+% explain every hyperparameter you mention, use acronyms consistently, ``quotes'' like this.
+
+\section{Introduction}
+% (1.5) State the research question EXPLICITLY. Every other section should answer it.
+
+\section{Data}
+
+\subsection{Data Analysis}
+% (1.5) Class distribution + relevant statistics. At least 2 CONCRETE observations with real examples
+% (generic descriptions score zero). Source: notebook 1.
+
+\subsection{Data Augmentation}
+% (2.0) Describe the strategy clearly: original vs small-class variants vs multi-class variants vs exact copies.
+% Number of variants + 1--2 modified examples. Source: notebook 2.
+
+\section{Models}
+% (4.0) At least 3 models: baselines + B1 (notebook 1), S1 (notebook 2), pre-trained semantic model (notebook 3).
+% Replicability: someone must be able to reproduce the results from this text alone. Creativity: justify choices.
+
+\section{Experimental Setup}
+% (1.0) Data used, grouped 5-fold splits (duplicated texts kept in the same fold), metrics
+% (accuracy, macro-F1, minimum per-class F1).
+
+\subsection{Parameters/Hyperparameters}
+
+\section{Results}
+% (1.5) Best models table (with intervals), per-label results of the best model, confusion matrix
+% with readable labels. The test set was only used to generate results.txt.
+
+\section{Discussion}
+% (3.0) Explain the most common errors. At least 3 concrete misclassified examples from our own
+% validation folds: text excerpt, predicted label, correct label, interpretation. Link back to the RQ.
+
+\section{Future Work}
+% (0.5) Related to the research question.
+
+\section*{Bibliography}
+% (1.0) Papers, libraries, pre-trained models + explicit declaration of how LLMs were used.
+
+\bibliographystyle{apalike}
+\bibliography{biblio}
+
+\appendix
+
+\section*{Appendix A: Extra Figures and Tables}
+% Maximum one page, only figures and tables. The 3-page paper must be understandable without it.
+
+\end{document}
