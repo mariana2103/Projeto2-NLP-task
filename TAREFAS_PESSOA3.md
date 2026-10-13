@@ -3,8 +3,45 @@
 **Entrega:** 16 out, 23:59 (Fenix). Os modelos têm de estar fechados a 13 out e o relatório pronto a 15 out.
 **Notebook:** [notebooks/notebook3_semantico_resultados.ipynb](notebooks/notebook3_semantico_resultados.ipynb)
 
-**Recebo** da pessoa 2 (Joana): os resultados da parte 1 e da parte 2, os registos de augmentation, o modelo final S1 guardado e as notas sobre as escolhas.
+**Recebi** da pessoa 2 (Joana), a 13 out: o notebook 2, o código em `src/`, os resultados em `results/notebook2/`, o modelo S1 e as notas em `docs/notas_parte2.md`. Falta a augmentation.
 **Entrego** à pessoa 4 (Gonçalo): as tabelas, as figuras, os exemplos, as limitações e o `results.txt`. Eu não escrevo o relatório, explico-lhe o material.
+
+---
+
+## Ponto de situação (13 out)
+
+### Entrega da parte 2: o que recebi
+- **Modelo final S1:** SVM linear com C=1; palavras e fragmentos em todos os campos; classes balanceadas (q=1); a 1.ª keyword é retirada quando é a especialidade; nota completa. Resultado: **acc .596 / macro-F1 .636 / min-F1 .463**.
+  - Fica pouco acima do B1 da pessoa 1 (.593 / .631 / .447).
+- **Previsão no teste:** o `src/predict_test.py` funciona. Gera 398 linhas com as 12 especialidades (comando no README).
+
+**Problemas da parte 2 (falar com a Joana):**
+1. **A augmentation (passo 8) não foi corrida.** Vale **2 pontos** e é obrigatória. Sem ela, o modelo final ainda pode mudar. É preciso decidir já quem a corre: ela ou eu.
+2. **Caminhos:** o código dela procura `StudentsPack/` e `Parte2_resultados/`. O `predict_test.py` funciona com caminhos explícitos, mas o notebook 2 não corre tal como está na nossa estrutura.
+3. **O `src/decoding.py`** é referido nas notas mas não veio na entrega.
+
+**Decisão do grupo — fuga da keyword:**
+- Com as keywords em bruto (a 1.ª keyword é muitas vezes o nome da especialidade), a accuracy sobe de .596 para **.922**. Isto acontece em 320 dos 398 casos de teste.
+- É um campo que o próprio teste traz, por isso decidir se o `results.txt` o usa. No relatório, apresentar as duas versões.
+
+### Projeto de 18 (`referencia/`): o que lhes deu pontos
+É de outro ano: tema diferente, 2 páginas e um template mais simples. O nosso template pede mais.
+
+**O que vale a pena copiar:**
+- Quatro modelos, um deles transformer (DistilBERT), com a justificação da escolha de cada um.
+- Uma tabela **por classe para todos os modelos**, com o melhor de cada linha destacado. Fazer o mesmo para B1, S1 e o modelo semântico.
+- A matriz de confusão do modelo escolhido.
+- Na Discussão: o transformer era ligeiramente melhor nalgumas classes, mas não compensava o custo. Usar a mesma estrutura para Bio_ClinicalBERT vs S1.
+- Cada exemplo tem o excerto, a linha, as etiquetas e **as palavras que levaram o modelo a errar**.
+
+**O que temos de fazer melhor que eles:**
+- **Pergunta de investigação** explícita.
+- Análise de dados com pelo menos 2 observações.
+- Augmentation.
+- **Pelo menos 3 erros**: eles só apresentaram 1 erro e 1 acerto.
+- Hiperparâmetros completos, para ser reproduzível.
+- Usar macro-F1 e min-F1, não só accuracy.
+- Zero gralhas.
 
 ---
 
