@@ -16,3 +16,9 @@ referencia/
 *.synctex.gz
 *.bbl
 *.blg
+
+# Pasta criada ao importar src/parte1_base.py
+Test/
+
+# Embeddings em cache (regeneram-se no notebook 3)
+*.npy

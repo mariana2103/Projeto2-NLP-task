@@ -1,0 +1,13 @@
+# Python 3.11. scikit-learn tem de ser 1.6.1: é a versão com que o modelo S1 foi guardado
+scikit-learn==1.6.1
+pandas
+numpy
+scipy
+nltk
+joblib
+threadpoolctl
+matplotlib
+seaborn
+sentence-transformers
+torch
+ipykernel

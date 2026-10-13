@@ -24,6 +24,22 @@
 - Com as keywords em bruto (a 1.ª keyword é muitas vezes o nome da especialidade), a accuracy sobe de .596 para **.922**. Isto acontece em 320 dos 398 casos de teste.
 - É um campo que o próprio teste traz, por isso decidir se o `results.txt` o usa. No relatório, apresentar as duas versões.
 
+### Notebook 3: já montado e testado (13 out)
+Corre de ponta a ponta com o kernel `Projeto2 LN (.venv)`. Primeiros números, fora da divisão, nas 5 divisões da pessoa 1, com intervalo de 95%:
+
+| Modelo | acc | macro-F1 | min-F1 |
+|---|---|---|---|
+| B1 (pessoa 1) | .593 [.575, .611] | .631 [.607, .652] | .447 |
+| S1 (pessoa 2) | .596 [.578, .615] | .636 [.611, .657] | .463 |
+| MiniLM + LR (semântico, 1.ª versão) | .540 [.520, .560] | .573 [.551, .596] | .387 |
+
+**O que já se vê:**
+- B1 e S1 são praticamente iguais: os intervalos sobrepõem-se quase por completo.
+- O semântico simples fica abaixo dos dois. É um bom ponto para a pergunta de investigação, mas ainda falta testar modelos biomédicos e o início+fim da nota.
+- **57%** dos casos estão num grupo com etiquetas em conflito. Nesses casos o S1 acerta só 46%; nos restantes acerta 77%.
+- Os erros do S1 são quase todos **Surgery prevista como outra especialidade**: Ortho 133, Cardio 123, Gastro 113, ObGyn 77. Depois vem Radiology→Neurology (40).
+- Já há um `results.txt` **provisório** na raiz (398 linhas), feito com o S1 sem augmentation.
+
 ### Projeto de 18 (`referencia/`): o que lhes deu pontos
 É de outro ano: tema diferente, 2 páginas e um template mais simples. O nosso template pede mais.
 
@@ -59,32 +75,33 @@
 ---
 
 ## Regras para todos os modelos
-- Usar **as mesmas 5 divisões da pessoa 1** (`results/notebook1/splits_seed42.json`). Os textos repetidos (mesma descrição ou mesma transcrição) ficam sempre do mesmo lado. Sem isto as comparações não valem.
+- Usar **as mesmas 5 divisões da pessoa 1**. O notebook 3 lê-as da coluna `fold` das previsões da pessoa 2 (`results/notebook2/*/predictions.csv`). Os textos repetidos (mesma descrição ou mesma transcrição) ficam sempre do mesmo lado. Sem isto as comparações não valem.
 - Métricas: **accuracy, macro-F1 e F1 mínima por classe**. Para os pontos automáticos é preciso acc > 49% e F1 ≥ 25% em todas as classes.
 - O teste **só** serve para gerar o `results.txt`. Não entra no treino nem no vocabulário do TF-IDF.
-- Guardar as previsões de validação com as colunas `row_id, gold, pred`, para a análise de erros.
+- Guardar as previsões fora da divisão no mesmo formato da pessoa 2 (`row_id, group_id, medical_specialty, prediction, fold`).
 - Apontar onde e como usei LLMs, porque o relatório tem de o declarar.
 
-**Valores a bater** (melhor resultado da pessoa 1, `all_fields_balanced_class_weights`): acc 0.591, macro-F1 0.623, min-F1 0.447.
+**Valores a bater** (S1 final): acc .596, macro-F1 .636, min-F1 .463.
 
 ---
 
 ## 1. Comparação com o modelo semântico pré-treinado
-- [ ] Opção leve, que corre no CPU: embeddings de frases (`all-MiniLM-L6-v2` ou um modelo clínico) + regressão logística.
-- [ ] Opção forte, que precisa de GPU/Colab: afinar **Bio_ClinicalBERT** (`emilyalsentzer/Bio_ClinicalBERT`).
+- [x] Opção leve: embeddings `all-MiniLM-L6-v2` + regressão logística. Resultado: .540 / .573 / .387.
+- [ ] Trocar `MODEL_NAME` para um modelo biomédico (`pritamdeka/S-PubMedBert-MS-MARCO`) e testar `TRUNCATION = 'head_tail'`.
+- [ ] Opção forte: afinar **Bio_ClinicalBERT** (o Mac tem GPU Apple/MPS, por isso talvez corra localmente) (`emilyalsentzer/Bio_ClinicalBERT`).
   - Entrada curta: `description + sample_name + keywords`, que cabe nos 512 tokens.
   - A transcrição tem mediana de 392 palavras, mais do que 512 tokens. Comparar truncar só o início, início+fim, e partir em pedaços com média dos logits.
-- [ ] Avaliar nas mesmas 5 divisões e comparar com B1 (pessoa 1) e S1 (pessoa 2).
+- [x] Avaliar nas mesmas 5 divisões e comparar com B1 e S1 (secção 4 do notebook).
 - [ ] Opcional (vale pontos de criatividade): um ensemble do S1 com o modelo semântico.
 - [ ] Registar tudo para a tabela de hiperparâmetros: seed, versões, épocas, learning rate, batch size, max_len.
 
 ## 2. Juntar as métricas das três partes + intervalos
-- [ ] Uma tabela única com baselines, B1, S1 e o modelo semântico: acc, macro-F1 e min-F1.
-- [ ] Intervalos de confiança a 95% por bootstrap (a função `bootstrap_interval` já está no notebook).
-- [ ] Resultados por especialidade do melhor modelo, que são obrigatórios no relatório.
+- [x] Uma tabela única com B1, S1 e o modelo semântico (`results/notebook3/tabela_modelos.csv`). Falta acrescentar as baselines.
+- [x] Intervalos de confiança a 95% por bootstrap.
+- [x] Resultados por especialidade de todos os modelos (`f1_por_classe.csv`).
 
 ## 3. Onde é que os modelos falham
-- [ ] **Matriz de confusão** com nomes de classes legíveis (obrigatória no relatório, pode ser de qualquer modelo).
+- [x] **Matriz de confusão** do S1 com nomes legíveis (`results/notebook3/confusao_S1.png`).
 - [ ] F1 por especialidade: que classes caem, e se as pequenas (Dermatology 25, Psychiatry 40, Ophthalmology 71, Neurosurgery 78) melhoram com a augmentation.
 - [ ] Tipos de exemplos a verificar:
   - **Surgery** contra as outras: é um tipo de procedimento, não uma especialidade (conflitos Orthopedic↔Surgery 118, Cardio↔Surgery 113, Gastro↔Surgery 95, ObGyn↔Surgery 67);
@@ -93,14 +110,14 @@
   - campos vazios: keywords vazias em 444 casos, transcrição vazia em 33.
 
 ## 4. Exemplos de previsões certas e erradas
-- [ ] Escolher **pelo menos 3 erros concretos** das nossas divisões de validação, cada um com o excerto do texto, a etiqueta prevista, a etiqueta correta e uma interpretação. A Discussão vale 3 pontos e afirmações genéricas valem 0.
+- [ ] Escolher, a partir de `exemplos_candidatos.csv` (com a função `show(row_id)`), **pelo menos 3 erros concretos** das nossas divisões de validação, cada um com o excerto do texto, a etiqueta prevista, a etiqueta correta e uma interpretação. A Discussão vale 3 pontos e afirmações genéricas valem 0.
 - [ ] 1 ou 2 acertos que mostrem que pistas o modelo usa (comparar com as palavras de maior peso do B1).
 - [ ] Rever os exemplos à mão antes de os passar ao Gonçalo.
 
 ## 5. `results.txt`
 - [x] Teste limpo do Fenix em `data/test_no_labels.csv`: **398 casos** (o antigo tinha 409), sem cabeçalho, colunas `description; sample_name; transcription; keywords`.
-- [ ] Usar o **modelo final da pessoa 2**, treinado com todo o treino, para prever o teste limpo.
-- [ ] Gerar com `write_results`, que confirma estes pontos:
+- [x] Usar o **modelo final da pessoa 2** para prever o teste limpo. Está feito, mas é **provisório**: tem de ser repetido se a augmentation mudar o modelo.
+- [x] Gerar com `write_results`, que confirma estes pontos:
   - uma etiqueta por caso: **398 linhas**;
   - sem cabeçalho;
   - pela mesma ordem do teste;

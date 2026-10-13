@@ -1,0 +1,68 @@
+true,predicted,errors,share_of_S1_errors
+Surgery,Orthopedic,133,0.126
+Surgery,Cardiovascular-Pulmonary,123,0.117
+Surgery,Gastroenterology,113,0.107
+Surgery,Obstetrics-Gynecology,77,0.073
+Surgery,Neurosurgery,52,0.049
+Surgery,Ophthalmology,45,0.043
+Radiology,Neurology,40,0.038
+Orthopedic,Neurosurgery,34,0.032
+Neurology,Radiology,30,0.028
+Orthopedic,Surgery,30,0.028
+Cardiovascular-Pulmonary,Surgery,29,0.027
+Cardiovascular-Pulmonary,Radiology,28,0.027
+Radiology,Cardiovascular-Pulmonary,21,0.02
+Radiology,Orthopedic,20,0.019
+Cardiovascular-Pulmonary,General Medicine,17,0.016
+Orthopedic,Radiology,17,0.016
+Gastroenterology,General Medicine,15,0.014
+General Medicine,Cardiovascular-Pulmonary,15,0.014
+Neurology,Orthopedic,15,0.014
+Orthopedic,Neurology,13,0.012
+Gastroenterology,Surgery,12,0.011
+Neurosurgery,Surgery,12,0.011
+Obstetrics-Gynecology,Surgery,12,0.011
+Neurology,Neurosurgery,11,0.01
+Neurology,General Medicine,11,0.01
+Obstetrics-Gynecology,Radiology,10,0.009
+Radiology,Obstetrics-Gynecology,10,0.009
+Surgery,Dermatology,8,0.008
+Gastroenterology,Radiology,7,0.007
+Neurology,Surgery,6,0.006
+Neurosurgery,Orthopedic,6,0.006
+Radiology,Gastroenterology,6,0.006
+Dermatology,General Medicine,5,0.005
+General Medicine,Orthopedic,5,0.005
+Neurology,Psychiatry-Psychology,5,0.005
+Radiology,Surgery,5,0.005
+Dermatology,Surgery,4,0.004
+General Medicine,Gastroenterology,4,0.004
+Orthopedic,General Medicine,4,0.004
+Surgery,Neurology,4,0.004
+Gastroenterology,Obstetrics-Gynecology,3,0.003
+Neurosurgery,Neurology,3,0.003
+Obstetrics-Gynecology,General Medicine,3,0.003
+Surgery,Radiology,3,0.003
+Gastroenterology,Cardiovascular-Pulmonary,2,0.002
+General Medicine,Neurology,2,0.002
+Neurosurgery,Radiology,2,0.002
+Obstetrics-Gynecology,Gastroenterology,2,0.002
+Obstetrics-Gynecology,Cardiovascular-Pulmonary,2,0.002
+Psychiatry-Psychology,General Medicine,2,0.002
+Cardiovascular-Pulmonary,Gastroenterology,1,0.001
+Cardiovascular-Pulmonary,Obstetrics-Gynecology,1,0.001
+Cardiovascular-Pulmonary,Neurology,1,0.001
+Dermatology,Radiology,1,0.001
+Gastroenterology,Neurology,1,0.001
+General Medicine,Obstetrics-Gynecology,1,0.001
+General Medicine,Psychiatry-Psychology,1,0.001
+General Medicine,Surgery,1,0.001
+General Medicine,Radiology,1,0.001
+General Medicine,Neurosurgery,1,0.001
+Neurosurgery,Obstetrics-Gynecology,1,0.001
+Neurosurgery,Cardiovascular-Pulmonary,1,0.001
+Ophthalmology,Obstetrics-Gynecology,1,0.001
+Ophthalmology,Neurology,1,0.001
+Ophthalmology,Surgery,1,0.001
+Psychiatry-Psychology,Neurology,1,0.001
+Surgery,General Medicine,1,0.001

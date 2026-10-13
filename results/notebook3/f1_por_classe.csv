@@ -1,0 +1,13 @@
+specialty,B1,S1,Sem_all-MiniLM-L6-v2,support
+Surgery,0.469,0.486,0.387,876
+Cardiovascular-Pulmonary,0.648,0.648,0.613,299
+Orthopedic,0.595,0.583,0.576,292
+Radiology,0.522,0.534,0.409,217
+General Medicine,0.801,0.798,0.617,207
+Gastroenterology,0.644,0.647,0.622,192
+Neurology,0.586,0.589,0.59,181
+Obstetrics-Gynecology,0.643,0.633,0.634,135
+Neurosurgery,0.447,0.463,0.448,78
+Ophthalmology,0.732,0.739,0.714,71
+Psychiatry-Psychology,0.86,0.892,0.779,40
+Dermatology,0.625,0.625,0.488,25
