@@ -40,6 +40,13 @@ Corre de ponta a ponta com o kernel `Projeto2 LN (.venv)`. Primeiros números, f
 - Os erros do S1 são quase todos **Surgery prevista como outra especialidade**: Ortho 133, Cardio 123, Gastro 113, ObGyn 77. Depois vem Radiology→Neurology (40).
 - Já há um `results.txt` **provisório** na raiz (398 linhas), feito com o S1 sem augmentation.
 
+### Parte 1: o que faltava, feito a 14 out
+- **Notebook 1 corrido aqui:** os resultados estão em `results/notebook1/`. Os números mudam ligeiramente em relação à tabela que a Mariana Neto mandou (o B1 passa de .591/.623 para **.593/.631/.447**). Batem certo com o que a Joana obteve, por isso a tabela original devia vir de uma versão anterior do código.
+- **Notebook 1b** (`notebooks/notebook1b_complementos_parte1.ipynb`), com o que o plano pedia e não estava feito:
+  - **Verificação:** nenhum texto repetido atravessa divisões. Há 701 transcrições repetidas com mais de uma etiqueta. Campos vazios: keywords 441, transcription 30, sample_name 4, description 1.
+  - **50 casos recuperados:** o pandas perde-os por causa de aspas mal fechadas, e lendo linha a linha recuperam-se. Com eles, o B1 fica igual (.593/.631/.447 → .591/.630/.453; mudam 62 de 2613 previsões). **Conclusão: não vale a pena usá-los.** Dá uma observação concreta para a Data Analysis.
+  - **Palavras de maior peso do B1:** estão em `results/notebook1b/b1_top_palavras.csv`. Servem para explicar os exemplos da Discussão.
+
 ### Projeto de 18 (`referencia/`): o que lhes deu pontos
 É de outro ano: tema diferente, 2 páginas e um template mais simples. O nosso template pede mais.
 

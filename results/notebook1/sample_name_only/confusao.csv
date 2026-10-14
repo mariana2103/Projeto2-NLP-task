@@ -1,0 +1,13 @@
+,Cardiovascular-Pulmonary,Dermatology,Gastroenterology,General Medicine,Neurology,Neurosurgery,Obstetrics-Gynecology,Ophthalmology,Orthopedic,Psychiatry-Psychology,Radiology,Surgery
+Cardiovascular-Pulmonary,176,0,0,26,4,1,1,2,0,0,34,55
+Dermatology,0,10,0,6,0,0,0,0,0,0,1,8
+Gastroenterology,4,0,134,12,1,0,4,1,2,0,5,29
+General Medicine,8,0,2,170,4,0,0,0,4,2,3,14
+Neurology,0,1,2,14,78,11,1,0,15,8,29,22
+Neurosurgery,1,0,0,0,5,40,1,0,10,0,0,21
+Obstetrics-Gynecology,0,0,5,2,0,0,98,0,0,0,9,21
+Ophthalmology,1,0,0,2,1,0,2,52,0,1,0,12
+Orthopedic,4,0,0,8,11,31,0,2,162,0,23,51
+Psychiatry-Psychology,0,0,0,3,1,0,0,0,0,35,0,1
+Radiology,18,0,12,1,32,1,9,0,17,0,108,19
+Surgery,104,8,104,1,6,48,74,41,114,0,6,370

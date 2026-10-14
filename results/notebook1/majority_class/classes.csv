@@ -1,0 +1,13 @@
+specialty,precision,recall,f1,support
+Cardiovascular-Pulmonary,0.0,0.0,0.0,299
+Dermatology,0.0,0.0,0.0,25
+Gastroenterology,0.0,0.0,0.0,192
+General Medicine,0.0,0.0,0.0,207
+Neurology,0.0,0.0,0.0,181
+Neurosurgery,0.0,0.0,0.0,78
+Obstetrics-Gynecology,0.0,0.0,0.0,135
+Ophthalmology,0.0,0.0,0.0,71
+Orthopedic,0.0,0.0,0.0,292
+Psychiatry-Psychology,0.0,0.0,0.0,40
+Radiology,0.0,0.0,0.0,217
+Surgery,0.33524684270952926,1.0,0.5021496130696474,876
