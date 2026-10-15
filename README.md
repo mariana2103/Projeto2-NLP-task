@@ -2,16 +2,16 @@
 
 | Pasta | Conteúdo |
 |---|---|
-| `data/` | `train.csv` (2613 casos usáveis), `test_no_labels.csv` (teste limpo do Fenix, 398 casos), `train_casos_recuperados.csv` (50 casos que o pandas perde, recuperados no notebook 1b), `backtranslation_cache.json` (cache da augmentation da pessoa 2) |
-| `notebooks/` | `notebook1_dados_baselines` (pessoa 1), `notebook1b_complementos_parte1` (o que faltava da parte 1: verificação dos dados, 50 casos recuperados, palavras de maior peso do B1), `notebook2_S1_augmentation` (pessoa 2), `notebook3_semantico_resultados` (pessoa 3) |
+| `data/` | `train.csv` (2613 casos usáveis), `test_no_labels.csv` (teste limpo do Fenix, 398 casos), `train_casos_recuperados.csv` (50 casos que o pandas perde, recuperados no notebook 1, secção 8; não são usados no treino), `backtranslation_cache.json` (cache da augmentation da pessoa 2) |
+| `notebooks/` | `notebook1_dados_baselines` (pessoa 1; secções 8–9 e a verificação dos textos repetidos acrescentadas pela pessoa 3), `notebook2_S1_augmentation` (pessoa 2; passo 8 corrido pela pessoa 3), `notebook3_semantico_resultados` (pessoa 3) |
 | `src/` | Código da pessoa 2: `parte1_base.py` (código da pessoa 1 em módulo), `s1.py` (modelo S1 + augmentation), `predict_test.py` (gera o `results.txt`) |
-| `results/` | `notebook1/`: as 19 configurações da parte 1 + `splits_seed42.json` (as 5 divisões). `notebook1b/`: casos recuperados e palavras de maior peso do B1. `notebook2/`: resultados de cada passo da parte 2, `s1_final_config.json` e `s1_final_model.joblib` (o modelo fica fora do git). `notebook3/`: tabela de modelos, F1 por classe, matriz de confusão, pares confundidos, candidatos a exemplos |
-| `results.txt` | Previsões no teste limpo (provisório até a augmentation estar feita) |
+| `results/` | `notebook1/`: as 19 configurações da parte 1 + `splits_seed42.json` (as 5 divisões) + `b1_top_words.csv`. `notebook2/`: resultados de cada passo da parte 2, `s1_final_config.json` e `s1_final_model.joblib` (o modelo fica fora do git). `notebook3/`: tabela de modelos, F1 por classe, matriz de confusão, pares confundidos, candidatos a exemplos, hiperparâmetros dos modelos semânticos |
+| `results.txt` | Previsões no teste limpo com o S1 final (398 linhas). A augmentation não melhorou, por isso este é o final |
 | `relatorio/` | `main.tex` + `biblio.bib` (estrutura do template, para o Overleaf) |
-| `docs/` | Enunciado, template original, `notas_parte2.md` (notas da pessoa 2) |
+| `docs/` | Enunciado, template original, `notas_parte2.md` (notas da pessoa 2), `notas_pessoa3_para_relatorio.md` (tudo para o relatório) |
 | `referencia/` | Projeto de 18 valores de 2024/25 (outro tema e outro template). Só para inspiração: **não vai na entrega**, fora do git |
 
-Ordem do trabalho: notebook 1 → 1b → notebook 2 → notebook 3 → relatório.
+Ordem do trabalho: notebook 1 → notebook 2 → notebook 3 → relatório.
 
 Repositório: https://github.com/mariana2103/Projeto2-NLP-task (privado).
 

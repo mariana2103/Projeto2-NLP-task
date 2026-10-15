@@ -8,6 +8,17 @@
 
 ---
 
+## Estado final (15 out): a minha parte está feita
+- [x] **Notebook 1:** verificação dos textos repetidos, os 50 casos recuperados (não mudam o B1) e as palavras de maior peso do B1. Corrido de ponta a ponta.
+- [x] **Notebook 2:** passo 8 (augmentation) corrido. **Nenhuma estratégia melhora**, por isso o modelo final fica sem augmentation. Os registos das variantes estão em `results/notebook2/augmentation_log_*.csv`.
+- [x] **Notebook 3:** baselines, B1, S1 e 3 modelos semânticos com intervalos de 95%, F1 por classe, matriz de confusão e análise de erros. O S1 ganha.
+- [x] **`results.txt` final:** 398 linhas, sem cabeçalho, com o S1 treinado nos 2613 casos.
+- [x] **Notas para o Gonçalo:** `docs/notas_pessoa3_para_relatorio.md`, com tabelas, exemplos, hiperparâmetros, limitações e o rascunho da declaração de LLMs.
+- [ ] Mandar as notas ao Gonçalo e decidir com o grupo a pergunta de investigação e a regra da keyword.
+- [ ] Antes de submeter: o zip sem `.joblib` e sem `referencia/`.
+
+---
+
 ## Ponto de situação (13 out)
 
 ### Entrega da parte 2: o que recebi

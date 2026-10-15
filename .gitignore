@@ -22,3 +22,6 @@ Test/
 
 # Embeddings em cache (regeneram-se no notebook 3)
 *.npy
+
+# Notas pessoais da pessoa 3 para o relatório (não vão para o repositório)
+docs/notas_pessoa3_para_relatorio.md

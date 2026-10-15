@@ -1,4 +1,4 @@
-specialty,Majority,NB,B1,S1,Sem_MiniLM_head,Sem_S_head,Sem_S_head_tail,support
+specialty,Majority,NB,B1,S1,Sem_MiniLM_head,Sem_PubMedBERT_head,Sem_PubMedBERT_head_tail,support
 Surgery,0.502,0.542,0.469,0.486,0.387,0.311,0.29,876
 Cardiovascular-Pulmonary,0.0,0.352,0.648,0.648,0.613,0.582,0.588,299
 Orthopedic,0.0,0.146,0.595,0.583,0.576,0.568,0.565,292
