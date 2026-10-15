@@ -16,5 +16,5 @@
  },
  "augmentation": "none",
  "trained_on_cases": 2613,
- "note": "best after steps 1-7 (field-weight search found no improvement); step 8 (augmentation) not run yet"
+ "note": "best after steps 1-7 (field-weight search found no improvement); step 8 (augmentation) run: none of target/all/copy improved, so the final model uses no augmentation"
 }
