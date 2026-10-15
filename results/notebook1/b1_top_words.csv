@@ -1,0 +1,181 @@
+specialty,rank,block,term,weight
+Cardiovascular-Pulmonary,1,sample_name_word,cardiac,0.601
+Cardiovascular-Pulmonary,2,sample_name_word,pulmonary,0.578
+Cardiovascular-Pulmonary,3,description_word,lung,0.505
+Cardiovascular-Pulmonary,4,sample_name_word,tachypnea,0.488
+Cardiovascular-Pulmonary,5,sample_name_word,bronchoscopy,0.43
+Cardiovascular-Pulmonary,6,sample_name_word,copd,0.413
+Cardiovascular-Pulmonary,7,sample_name_word,cardiac consultation,0.399
+Cardiovascular-Pulmonary,8,sample_name_word,lung,0.379
+Cardiovascular-Pulmonary,9,transcription_word,chest,0.377
+Cardiovascular-Pulmonary,10,sample_name_word,thrombectomy,0.374
+Cardiovascular-Pulmonary,11,description_word,pulmonary,0.357
+Cardiovascular-Pulmonary,12,keywords_word,stenosis,0.355
+Cardiovascular-Pulmonary,13,sample_name_word,angina,0.339
+Cardiovascular-Pulmonary,14,keywords_word,lung,0.336
+Cardiovascular-Pulmonary,15,description_word,bronchoscopy,0.333
+Dermatology,1,description_word,acne,0.521
+Dermatology,2,sample_name_word,acne,0.449
+Dermatology,3,sample_name_word,skin biopsy,0.417
+Dermatology,4,keywords_word,cream,0.393
+Dermatology,5,sample_name_word,vulgaris,0.367
+Dermatology,6,sample_name_word,acne vulgaris,0.367
+Dermatology,7,sample_name_word,skin,0.322
+Dermatology,8,sample_name_word,rhytids,0.315
+Dermatology,9,sample_name_word,facial rhytids,0.315
+Dermatology,10,sample_name_word,erythema,0.314
+Dermatology,11,sample_name_word,nodosum consult,0.314
+Dermatology,12,sample_name_word,nodosum,0.314
+Dermatology,13,sample_name_word,erythema nodosum,0.314
+Dermatology,14,sample_name_word,hyperesthesia,0.31
+Dermatology,15,sample_name_word,d buttock,0.309
+Gastroenterology,1,sample_name_word,gi,0.528
+Gastroenterology,2,sample_name_word,colonoscopy,0.468
+Gastroenterology,3,sample_name_word,gi consultation,0.453
+Gastroenterology,4,keywords_word,abdominal,0.43
+Gastroenterology,5,sample_name_word,egd,0.383
+Gastroenterology,6,sample_name_word,colon,0.378
+Gastroenterology,7,description_word,abdominal,0.36
+Gastroenterology,8,description_word,gi,0.357
+Gastroenterology,9,sample_name_word,barium,0.356
+Gastroenterology,10,sample_name_word,liver,0.347
+Gastroenterology,11,sample_name_word,colostomy,0.344
+Gastroenterology,12,sample_name_word,appendectomy,0.339
+Gastroenterology,13,sample_name_word,ercp,0.325
+Gastroenterology,14,description_word,gastric,0.321
+Gastroenterology,15,description_word,colostomy,0.305
+General Medicine,1,sample_name_word,gen,0.807
+General Medicine,2,sample_name_word,gen med,0.807
+General Medicine,3,sample_name_word,med,0.807
+General Medicine,4,sample_name_word,med consult,0.499
+General Medicine,5,sample_name_word,normal,0.46
+General Medicine,6,sample_name_word,snoring,0.406
+General Medicine,7,sample_name_word,exam,0.39
+General Medicine,8,sample_name_word,discharge summary,0.372
+General Medicine,9,sample_name_word,fall,0.368
+General Medicine,10,sample_name_word,discharge,0.354
+General Medicine,11,description_word,hypertension,0.349
+General Medicine,12,sample_name_word,visit,0.339
+General Medicine,13,sample_name_word,summary,0.335
+General Medicine,14,sample_name_word,sepsis,0.329
+General Medicine,15,sample_name_word,syncope,0.299
+Neurology,1,sample_name_word,neurologic,0.482
+Neurology,2,sample_name_word,head,0.45
+Neurology,3,sample_name_word,electroencephalogram,0.417
+Neurology,4,description_word,hydrocephalus,0.414
+Neurology,5,description_word,headache,0.412
+Neurology,6,sample_name_word,neurologic consultation,0.396
+Neurology,7,sample_name_word,meningioma,0.349
+Neurology,8,transcription_word,mri,0.33
+Neurology,9,keywords_word,numbness,0.327
+Neurology,10,sample_name_word,seizures,0.327
+Neurology,11,sample_name_word,consult seizures,0.327
+Neurology,12,sample_name_word,disease,0.324
+Neurology,13,sample_name_word,palsy,0.323
+Neurology,14,sample_name_word,diplopia,0.322
+Neurology,15,description_word,variant,0.317
+Neurosurgery,1,sample_name_word,craniotomy,0.457
+Neurosurgery,2,sample_name_word,facetectomy,0.354
+Neurosurgery,3,sample_name_word,foraminotomy,0.344
+Neurosurgery,4,sample_name_word,hemicraniectomy,0.328
+Neurosurgery,5,sample_name_word,neuroplasty,0.292
+Neurosurgery,6,sample_name_word,laminectomy,0.281
+Neurosurgery,7,transcription_word,dura,0.275
+Neurosurgery,8,keywords_word,anterior cervical,0.274
+Neurosurgery,9,description_word,drain,0.263
+Neurosurgery,10,transcription_word,the dura,0.261
+Neurosurgery,11,sample_name_word,laminotomy,0.259
+Neurosurgery,12,sample_name_word,lumbar puncture,0.259
+Neurosurgery,13,sample_name_word,puncture,0.259
+Neurosurgery,14,keywords_word,cervical discectomy,0.246
+Neurosurgery,15,sample_name_word,scott,0.241
+Obstetrics-Gynecology,1,sample_name_word,ob/gyn,0.583
+Obstetrics-Gynecology,2,description_word,vaginal,0.475
+Obstetrics-Gynecology,3,sample_name_word,hysterectomy,0.463
+Obstetrics-Gynecology,4,sample_name_word,laparoscopy,0.45
+Obstetrics-Gynecology,5,sample_name_word,delivery,0.436
+Obstetrics-Gynecology,6,sample_name_word,delivery note,0.407
+Obstetrics-Gynecology,7,description_word,breast,0.399
+Obstetrics-Gynecology,8,description_word,pap,0.399
+Obstetrics-Gynecology,9,sample_name_word,breast,0.37
+Obstetrics-Gynecology,10,description_word,hysterectomy,0.361
+Obstetrics-Gynecology,11,sample_name_word,laparoscopy 2,0.358
+Obstetrics-Gynecology,12,sample_name_word,pap,0.35
+Obstetrics-Gynecology,13,sample_name_word,checkup,0.347
+Obstetrics-Gynecology,14,description_word,ovarian,0.339
+Obstetrics-Gynecology,15,sample_name_word,abdominosacrocolpopexy,0.337
+Ophthalmology,1,transcription_word,eye,0.762
+Ophthalmology,2,keywords_word,eye,0.732
+Ophthalmology,3,description_word,eye,0.607
+Ophthalmology,4,sample_name_word,blepharoplasty,0.517
+Ophthalmology,5,sample_name_word,ophthalmology,0.386
+Ophthalmology,6,transcription_word,right eye,0.378
+Ophthalmology,7,sample_name_word,electronystagmogram,0.36
+Ophthalmology,8,keywords_word,eyes,0.33
+Ophthalmology,9,description_word,lid,0.324
+Ophthalmology,10,sample_name_word,vitrectomy,0.322
+Ophthalmology,11,description_word,blepharoplasty,0.313
+Ophthalmology,12,transcription_word,lid,0.299
+Ophthalmology,13,keywords_word,degeneration,0.293
+Ophthalmology,14,description_word,vision,0.292
+Ophthalmology,15,sample_name_word,cataract,0.289
+Orthopedic,1,sample_name_word,pain,0.565
+Orthopedic,2,sample_name_word,hip,0.446
+Orthopedic,3,sample_name_word,orthopedic,0.446
+Orthopedic,4,sample_name_word,back,0.425
+Orthopedic,5,description_word,pain,0.397
+Orthopedic,6,keywords_word,fracture,0.389
+Orthopedic,7,description_word,knee,0.359
+Orthopedic,8,description_word,back,0.352
+Orthopedic,9,sample_name_word,therapy,0.35
+Orthopedic,10,sample_name_word,back pain,0.322
+Orthopedic,11,description_word,right,0.307
+Orthopedic,12,sample_name_word,orthopedic consult,0.301
+Orthopedic,13,description_word,hip,0.297
+Orthopedic,14,keywords_word,lumbar,0.297
+Orthopedic,15,sample_name_word,diskectomy,0.293
+Psychiatry-Psychology,1,sample_name_word,psychiatric,0.579
+Psychiatry-Psychology,2,sample_name_word,psych,0.502
+Psychiatry-Psychology,3,sample_name_word,psych consult,0.478
+Psychiatry-Psychology,4,sample_name_word,evaluation,0.405
+Psychiatry-Psychology,5,description_word,psychiatric,0.364
+Psychiatry-Psychology,6,sample_name_word,disorder,0.358
+Psychiatry-Psychology,7,description_word,psychosocial,0.327
+Psychiatry-Psychology,8,description_word,testing,0.319
+Psychiatry-Psychology,9,keywords_word,disorder,0.306
+Psychiatry-Psychology,10,description_word,behavior,0.302
+Psychiatry-Psychology,11,description_word,depression,0.284
+Psychiatry-Psychology,12,transcription_word,summary,0.284
+Psychiatry-Psychology,13,sample_name_word,psychiatric discharge,0.279
+Psychiatry-Psychology,14,sample_name_word,mental status,0.276
+Psychiatry-Psychology,15,sample_name_word,mental,0.276
+Radiology,1,sample_name_word,mri,0.446
+Radiology,2,description_word,brachytherapy,0.389
+Radiology,3,sample_name_word,ultrasound,0.379
+Radiology,4,sample_name_word,ob 3,0.365
+Radiology,5,sample_name_word,hyperfractionation,0.342
+Radiology,6,description_word,hct,0.342
+Radiology,7,description_word,carotid artery,0.315
+Radiology,8,keywords_word,ct,0.305
+Radiology,9,sample_name_word,simulation,0.298
+Radiology,10,transcription_word,exam,0.295
+Radiology,11,sample_name_word,nuclear,0.294
+Radiology,12,sample_name_word,transesophageal echocardiogram,0.293
+Radiology,13,sample_name_word,ct,0.291
+Radiology,14,transcription_word,there is,0.29
+Radiology,15,description_word,template,0.277
+Surgery,1,sample_name_word,circumcision,0.389
+Surgery,2,keywords_word,incision,0.321
+Surgery,3,transcription_word,procedure,0.31
+Surgery,4,keywords_word,catheter,0.306
+Surgery,5,sample_name_word,fistula,0.297
+Surgery,6,keywords_word,bladder,0.297
+Surgery,7,keywords_word,vein,0.281
+Surgery,8,sample_name_word,vasectomy,0.281
+Surgery,9,description_word,bilateral,0.278
+Surgery,10,transcription_word,indication,0.275
+Surgery,11,sample_name_word,inguinal,0.269
+Surgery,12,sample_name_word,breast biopsy,0.263
+Surgery,13,description_word,nasal,0.261
+Surgery,14,description_word,inguinal,0.258
+Surgery,15,keywords_word,nasal,0.258

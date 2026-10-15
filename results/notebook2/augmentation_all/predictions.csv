@@ -1,0 +1,2614 @@
+row_id,group_id,medical_specialty,prediction,fold
+0,0,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+1,1,Cardiovascular-Pulmonary,General Medicine,0
+2,2,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+3,3,Cardiovascular-Pulmonary,Radiology,3
+4,4,Cardiovascular-Pulmonary,General Medicine,0
+5,5,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+6,6,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+7,7,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+8,8,Cardiovascular-Pulmonary,Radiology,0
+9,9,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+10,10,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+11,11,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+12,12,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+13,13,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+14,14,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+15,15,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+16,16,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+17,17,Cardiovascular-Pulmonary,Radiology,2
+18,18,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+19,19,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+20,20,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+21,21,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+22,22,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+23,23,Cardiovascular-Pulmonary,Gastroenterology,0
+24,24,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+25,25,Cardiovascular-Pulmonary,Radiology,4
+26,26,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+27,27,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+28,28,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+29,29,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+30,30,Cardiovascular-Pulmonary,General Medicine,2
+31,31,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+32,32,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+33,33,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+34,34,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+35,35,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+36,36,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+37,37,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+38,38,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+39,39,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+40,40,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+41,41,Cardiovascular-Pulmonary,Surgery,4
+42,42,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+43,43,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+44,44,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+45,45,Cardiovascular-Pulmonary,Radiology,1
+46,46,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+47,47,Cardiovascular-Pulmonary,Surgery,1
+48,48,Cardiovascular-Pulmonary,Radiology,4
+49,49,Cardiovascular-Pulmonary,Surgery,2
+50,50,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+51,51,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+52,52,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+53,53,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+54,54,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+55,55,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+56,56,Cardiovascular-Pulmonary,General Medicine,4
+57,57,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+58,58,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+59,59,Cardiovascular-Pulmonary,Radiology,2
+60,60,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+61,61,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+62,62,Cardiovascular-Pulmonary,Surgery,0
+63,63,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+64,64,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+65,65,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+66,66,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+67,67,Cardiovascular-Pulmonary,Radiology,3
+68,68,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+69,69,Cardiovascular-Pulmonary,Surgery,2
+70,70,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+71,71,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+72,72,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+73,73,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+74,74,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+75,75,Cardiovascular-Pulmonary,General Medicine,0
+76,76,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+77,77,Cardiovascular-Pulmonary,Radiology,3
+78,78,Cardiovascular-Pulmonary,Radiology,1
+79,79,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+80,80,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+81,81,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+82,82,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+83,83,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+84,84,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+85,85,Cardiovascular-Pulmonary,Radiology,3
+86,86,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+87,87,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+88,88,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+89,89,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+90,90,Cardiovascular-Pulmonary,Surgery,4
+91,91,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+92,92,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+93,93,Cardiovascular-Pulmonary,Radiology,1
+94,94,Cardiovascular-Pulmonary,Surgery,0
+95,95,Cardiovascular-Pulmonary,Surgery,4
+96,96,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+97,97,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+98,98,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+99,99,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+100,100,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+101,101,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+102,102,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+103,103,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+104,104,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+105,105,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+106,106,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+107,107,Cardiovascular-Pulmonary,General Medicine,1
+108,108,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+109,109,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+110,110,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+111,111,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+112,112,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+113,113,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+114,114,Cardiovascular-Pulmonary,Radiology,0
+115,115,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+116,116,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+117,117,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+118,118,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+119,119,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+120,120,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+121,121,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+122,122,Cardiovascular-Pulmonary,Surgery,3
+123,123,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+124,124,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+125,125,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+126,126,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+127,127,Cardiovascular-Pulmonary,General Medicine,0
+128,128,Cardiovascular-Pulmonary,Radiology,3
+129,129,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+130,130,Cardiovascular-Pulmonary,Surgery,0
+131,131,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+132,132,Cardiovascular-Pulmonary,Surgery,1
+133,133,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+134,134,Cardiovascular-Pulmonary,Surgery,0
+135,135,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+136,136,Cardiovascular-Pulmonary,General Medicine,4
+137,137,Cardiovascular-Pulmonary,Surgery,2
+138,138,Cardiovascular-Pulmonary,Neurology,3
+139,139,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+140,140,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+141,141,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+142,142,Cardiovascular-Pulmonary,Surgery,3
+143,143,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+144,144,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+145,145,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+146,146,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+147,147,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+148,148,Cardiovascular-Pulmonary,Surgery,2
+149,149,Cardiovascular-Pulmonary,Surgery,1
+150,150,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+151,151,Cardiovascular-Pulmonary,Surgery,3
+152,152,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+153,153,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+154,154,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+155,155,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+156,156,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+157,157,Cardiovascular-Pulmonary,Surgery,0
+158,158,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+159,159,Cardiovascular-Pulmonary,Neurology,1
+160,160,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+161,161,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+162,162,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+163,163,Cardiovascular-Pulmonary,Surgery,0
+164,164,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+165,165,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+166,166,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+167,167,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+168,168,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+169,169,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+170,170,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+171,171,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+172,172,Cardiovascular-Pulmonary,Surgery,0
+173,173,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+174,174,Cardiovascular-Pulmonary,Surgery,1
+175,175,Cardiovascular-Pulmonary,Radiology,3
+176,176,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+177,177,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+178,178,Cardiovascular-Pulmonary,Radiology,4
+179,179,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+180,180,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+181,181,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+182,182,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+183,183,Cardiovascular-Pulmonary,General Medicine,4
+184,184,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+185,185,Cardiovascular-Pulmonary,Radiology,4
+186,186,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+187,187,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+188,188,Cardiovascular-Pulmonary,Surgery,1
+189,51,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+190,190,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+191,191,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+192,192,Cardiovascular-Pulmonary,Radiology,0
+193,193,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+194,194,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+195,195,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+196,196,Cardiovascular-Pulmonary,Surgery,3
+197,197,Cardiovascular-Pulmonary,Surgery,4
+198,198,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+199,199,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+200,200,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+201,201,Cardiovascular-Pulmonary,General Medicine,4
+202,202,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+203,203,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+204,204,Cardiovascular-Pulmonary,Radiology,1
+205,205,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+206,206,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+207,207,Cardiovascular-Pulmonary,Radiology,0
+208,208,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+209,209,Cardiovascular-Pulmonary,Radiology,4
+210,210,Cardiovascular-Pulmonary,Radiology,0
+211,211,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+212,212,Cardiovascular-Pulmonary,Surgery,3
+213,17,Cardiovascular-Pulmonary,Radiology,2
+214,214,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+215,215,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+216,216,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+217,217,Cardiovascular-Pulmonary,General Medicine,4
+218,218,Cardiovascular-Pulmonary,Radiology,0
+219,219,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+220,220,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+221,221,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+222,222,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+223,223,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+224,224,Cardiovascular-Pulmonary,Radiology,2
+225,225,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+226,226,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+227,227,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+228,228,Cardiovascular-Pulmonary,General Medicine,1
+229,229,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+230,230,Cardiovascular-Pulmonary,Surgery,3
+231,231,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+232,232,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+233,233,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+234,234,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+235,235,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+236,236,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+237,237,Cardiovascular-Pulmonary,Surgery,0
+238,238,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+239,239,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+240,240,Cardiovascular-Pulmonary,Surgery,2
+241,241,Cardiovascular-Pulmonary,Radiology,0
+242,242,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+243,243,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+244,244,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+245,245,Cardiovascular-Pulmonary,Surgery,1
+246,246,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+247,247,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+248,248,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+249,249,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+250,250,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+251,251,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+252,252,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+253,253,Cardiovascular-Pulmonary,Surgery,3
+254,254,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+255,255,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+256,256,Cardiovascular-Pulmonary,Radiology,0
+257,257,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+258,258,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+259,259,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+260,260,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+261,261,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+262,262,Cardiovascular-Pulmonary,Surgery,1
+263,263,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+264,264,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+265,265,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+266,266,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+267,267,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+268,268,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+269,269,Cardiovascular-Pulmonary,General Medicine,2
+270,270,Cardiovascular-Pulmonary,Surgery,4
+271,271,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+272,272,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+273,273,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+274,274,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+275,275,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+276,276,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+277,277,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+278,278,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+279,279,Cardiovascular-Pulmonary,General Medicine,0
+280,280,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+281,281,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+282,282,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+283,283,Cardiovascular-Pulmonary,General Medicine,1
+284,284,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+285,285,Cardiovascular-Pulmonary,Surgery,4
+286,286,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+287,287,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+288,288,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+289,289,Cardiovascular-Pulmonary,Radiology,1
+290,290,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+291,291,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,2
+292,292,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+293,293,Cardiovascular-Pulmonary,Surgery,3
+294,294,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,1
+295,295,Dermatology,Dermatology,0
+296,296,Dermatology,Dermatology,2
+297,297,Dermatology,General Medicine,3
+298,298,Dermatology,Dermatology,0
+299,299,Dermatology,Surgery,4
+300,300,Dermatology,General Medicine,2
+301,301,Dermatology,Surgery,3
+302,302,Dermatology,Dermatology,0
+303,303,Dermatology,Dermatology,4
+304,304,Dermatology,General Medicine,0
+305,305,Dermatology,General Medicine,3
+306,306,Dermatology,Surgery,2
+307,307,Dermatology,Dermatology,2
+308,308,Dermatology,Radiology,3
+309,309,Dermatology,Dermatology,2
+310,310,Dermatology,Surgery,4
+311,311,Dermatology,Surgery,2
+312,312,Dermatology,Dermatology,1
+313,313,Dermatology,Dermatology,3
+314,314,Dermatology,Dermatology,4
+315,315,Dermatology,Dermatology,1
+316,316,Dermatology,Dermatology,0
+317,317,Dermatology,Dermatology,1
+318,318,Dermatology,General Medicine,3
+319,319,Dermatology,Orthopedic,4
+320,320,Gastroenterology,Gastroenterology,3
+321,321,Gastroenterology,Gastroenterology,1
+322,322,Gastroenterology,Surgery,0
+323,323,Gastroenterology,Gastroenterology,4
+324,324,Gastroenterology,Radiology,3
+325,325,Gastroenterology,Psychiatry-Psychology,0
+326,326,Gastroenterology,Gastroenterology,1
+327,327,Gastroenterology,Gastroenterology,2
+328,328,Gastroenterology,Gastroenterology,2
+329,329,Gastroenterology,Gastroenterology,4
+330,330,Gastroenterology,Gastroenterology,1
+331,331,Gastroenterology,Gastroenterology,3
+332,332,Gastroenterology,Gastroenterology,1
+333,333,Gastroenterology,Gastroenterology,2
+334,334,Gastroenterology,General Medicine,0
+335,335,Gastroenterology,Gastroenterology,0
+336,336,Gastroenterology,General Medicine,3
+337,337,Gastroenterology,Gastroenterology,4
+338,338,Gastroenterology,Gastroenterology,4
+339,339,Gastroenterology,General Medicine,2
+340,340,Gastroenterology,Gastroenterology,0
+341,341,Gastroenterology,Gastroenterology,4
+342,342,Gastroenterology,Gastroenterology,1
+343,343,Gastroenterology,Gastroenterology,3
+344,344,Gastroenterology,Gastroenterology,4
+345,345,Gastroenterology,Surgery,0
+346,346,Gastroenterology,Gastroenterology,4
+347,347,Gastroenterology,Surgery,1
+348,348,Gastroenterology,Gastroenterology,1
+349,349,Gastroenterology,Gastroenterology,2
+350,350,Gastroenterology,Gastroenterology,0
+351,351,Gastroenterology,Gastroenterology,0
+352,352,Gastroenterology,Gastroenterology,1
+353,353,Gastroenterology,Gastroenterology,3
+354,354,Gastroenterology,Gastroenterology,1
+355,355,Gastroenterology,Gastroenterology,2
+356,356,Gastroenterology,General Medicine,2
+357,357,Gastroenterology,Gastroenterology,4
+358,358,Gastroenterology,Gastroenterology,1
+359,23,Gastroenterology,Gastroenterology,0
+360,360,Gastroenterology,Gastroenterology,3
+361,361,Gastroenterology,General Medicine,4
+362,362,Gastroenterology,Gastroenterology,0
+363,363,Gastroenterology,Surgery,2
+364,364,Gastroenterology,Gastroenterology,1
+365,365,Gastroenterology,Obstetrics-Gynecology,2
+366,366,Gastroenterology,Gastroenterology,2
+367,367,Gastroenterology,Gastroenterology,3
+368,368,Gastroenterology,Gastroenterology,3
+369,369,Gastroenterology,Gastroenterology,0
+370,370,Gastroenterology,Gastroenterology,3
+371,371,Gastroenterology,Surgery,2
+372,372,Gastroenterology,Gastroenterology,4
+373,373,Gastroenterology,Gastroenterology,4
+374,374,Gastroenterology,Gastroenterology,3
+375,375,Gastroenterology,Cardiovascular-Pulmonary,1
+376,376,Gastroenterology,Gastroenterology,2
+377,377,Gastroenterology,Gastroenterology,0
+378,378,Gastroenterology,Gastroenterology,2
+379,379,Gastroenterology,Gastroenterology,1
+380,380,Gastroenterology,Gastroenterology,1
+381,381,Gastroenterology,Surgery,3
+382,382,Gastroenterology,Gastroenterology,0
+383,383,Gastroenterology,Gastroenterology,0
+384,384,Gastroenterology,Gastroenterology,4
+385,385,Gastroenterology,Surgery,4
+386,386,Gastroenterology,General Medicine,2
+387,387,Gastroenterology,Surgery,3
+388,388,Gastroenterology,Gastroenterology,4
+389,389,Gastroenterology,Gastroenterology,3
+390,390,Gastroenterology,Gastroenterology,1
+391,391,Gastroenterology,Gastroenterology,3
+392,392,Gastroenterology,Radiology,4
+393,393,Gastroenterology,General Medicine,3
+394,394,Gastroenterology,Gastroenterology,1
+395,395,Gastroenterology,Cardiovascular-Pulmonary,2
+396,396,Gastroenterology,Surgery,3
+397,377,Gastroenterology,Gastroenterology,0
+398,398,Gastroenterology,Gastroenterology,3
+399,399,Gastroenterology,Gastroenterology,2
+400,400,Gastroenterology,Gastroenterology,2
+401,401,Gastroenterology,Gastroenterology,4
+402,402,Gastroenterology,General Medicine,0
+403,403,Gastroenterology,Surgery,0
+404,404,Gastroenterology,Radiology,0
+405,405,Gastroenterology,Radiology,2
+406,406,Gastroenterology,Gastroenterology,4
+407,407,Gastroenterology,Gastroenterology,1
+408,408,Gastroenterology,Gastroenterology,1
+409,409,Gastroenterology,Gastroenterology,3
+410,410,Gastroenterology,Radiology,4
+411,411,Gastroenterology,Gastroenterology,1
+412,412,Gastroenterology,Gastroenterology,0
+413,413,Gastroenterology,Gastroenterology,2
+414,377,Gastroenterology,Gastroenterology,0
+415,415,Gastroenterology,Gastroenterology,4
+416,416,Gastroenterology,Gastroenterology,3
+417,417,Gastroenterology,Gastroenterology,1
+418,418,Gastroenterology,General Medicine,3
+419,419,Gastroenterology,Radiology,4
+420,420,Gastroenterology,General Medicine,2
+421,421,Gastroenterology,Gastroenterology,0
+422,422,Gastroenterology,Gastroenterology,2
+423,423,Gastroenterology,Gastroenterology,2
+424,424,Gastroenterology,General Medicine,4
+425,425,Gastroenterology,Gastroenterology,1
+426,426,Gastroenterology,Gastroenterology,3
+427,427,Gastroenterology,Gastroenterology,0
+428,428,Gastroenterology,Gastroenterology,0
+429,429,Gastroenterology,Gastroenterology,1
+430,430,Gastroenterology,Gastroenterology,0
+431,431,Gastroenterology,Gastroenterology,2
+432,432,Gastroenterology,Gastroenterology,0
+433,433,Gastroenterology,Gastroenterology,2
+434,434,Gastroenterology,Gastroenterology,4
+435,435,Gastroenterology,Gastroenterology,3
+436,436,Gastroenterology,Gastroenterology,3
+437,437,Gastroenterology,Gastroenterology,0
+438,438,Gastroenterology,Gastroenterology,1
+439,439,Gastroenterology,Surgery,4
+440,440,Gastroenterology,Gastroenterology,0
+441,441,Gastroenterology,Gastroenterology,1
+442,442,Gastroenterology,Gastroenterology,3
+443,383,Gastroenterology,Gastroenterology,0
+444,444,Gastroenterology,Obstetrics-Gynecology,0
+445,445,Gastroenterology,Gastroenterology,4
+446,446,Gastroenterology,Gastroenterology,1
+447,447,Gastroenterology,General Medicine,2
+448,448,Gastroenterology,Gastroenterology,2
+449,449,Gastroenterology,Gastroenterology,4
+450,377,Gastroenterology,Gastroenterology,0
+451,451,Gastroenterology,Surgery,0
+452,452,Gastroenterology,Neurology,2
+453,453,Gastroenterology,Gastroenterology,1
+454,454,Gastroenterology,Gastroenterology,3
+455,455,Gastroenterology,Gastroenterology,1
+456,456,Gastroenterology,Gastroenterology,0
+457,457,Gastroenterology,Surgery,3
+458,458,Gastroenterology,Gastroenterology,4
+459,459,Gastroenterology,Surgery,2
+460,460,Gastroenterology,Gastroenterology,2
+461,461,Gastroenterology,Gastroenterology,1
+462,462,Gastroenterology,Surgery,2
+463,463,Gastroenterology,Gastroenterology,0
+464,464,Gastroenterology,Cardiovascular-Pulmonary,4
+465,465,Gastroenterology,Gastroenterology,0
+466,466,Gastroenterology,Gastroenterology,0
+467,467,Gastroenterology,Gastroenterology,3
+468,468,Gastroenterology,Gastroenterology,4
+469,469,Gastroenterology,Gastroenterology,1
+470,470,Gastroenterology,Gastroenterology,4
+471,471,Gastroenterology,Gastroenterology,2
+472,472,Gastroenterology,Gastroenterology,1
+473,383,Gastroenterology,Gastroenterology,0
+474,474,Gastroenterology,General Medicine,3
+475,475,Gastroenterology,Gastroenterology,0
+476,476,Gastroenterology,General Medicine,4
+477,477,Gastroenterology,Gastroenterology,0
+478,478,Gastroenterology,Surgery,3
+479,479,Gastroenterology,Gastroenterology,1
+480,480,Gastroenterology,Gastroenterology,2
+481,481,Gastroenterology,Gastroenterology,4
+482,482,Gastroenterology,Gastroenterology,3
+483,483,Gastroenterology,Gastroenterology,0
+484,484,Gastroenterology,Gastroenterology,4
+485,485,Gastroenterology,Obstetrics-Gynecology,3
+486,486,Gastroenterology,Gastroenterology,1
+487,487,Gastroenterology,Radiology,2
+488,488,Gastroenterology,Gastroenterology,4
+489,489,Gastroenterology,Surgery,0
+490,490,Gastroenterology,Gastroenterology,1
+491,377,Gastroenterology,Gastroenterology,0
+492,492,Gastroenterology,Cardiovascular-Pulmonary,1
+493,493,Gastroenterology,Gastroenterology,3
+494,494,Gastroenterology,Radiology,0
+495,495,Gastroenterology,Gastroenterology,2
+496,496,Gastroenterology,Gastroenterology,2
+497,497,Gastroenterology,Gastroenterology,3
+498,498,Gastroenterology,Gastroenterology,4
+499,499,Gastroenterology,Gastroenterology,1
+500,500,Gastroenterology,Gastroenterology,4
+501,501,Gastroenterology,Gastroenterology,0
+502,502,Gastroenterology,Gastroenterology,1
+503,503,Gastroenterology,Gastroenterology,0
+504,504,Gastroenterology,Gastroenterology,2
+505,505,Gastroenterology,Gastroenterology,3
+506,506,Gastroenterology,Gastroenterology,2
+507,507,Gastroenterology,General Medicine,4
+508,508,Gastroenterology,Surgery,0
+509,509,Gastroenterology,Gastroenterology,4
+510,510,General Medicine,General Medicine,1
+511,511,General Medicine,Cardiovascular-Pulmonary,1
+512,512,General Medicine,Cardiovascular-Pulmonary,1
+513,513,General Medicine,General Medicine,3
+514,514,General Medicine,General Medicine,2
+515,515,General Medicine,General Medicine,4
+516,516,General Medicine,General Medicine,3
+517,517,General Medicine,General Medicine,4
+518,518,General Medicine,General Medicine,0
+519,519,General Medicine,General Medicine,1
+520,520,General Medicine,General Medicine,3
+521,521,General Medicine,General Medicine,2
+522,522,General Medicine,General Medicine,0
+523,523,General Medicine,General Medicine,4
+524,524,General Medicine,General Medicine,1
+525,525,General Medicine,General Medicine,0
+526,526,General Medicine,General Medicine,2
+527,527,General Medicine,General Medicine,3
+528,528,General Medicine,General Medicine,1
+529,529,General Medicine,General Medicine,0
+530,530,General Medicine,General Medicine,0
+531,531,General Medicine,General Medicine,4
+532,532,General Medicine,General Medicine,3
+533,533,General Medicine,Cardiovascular-Pulmonary,1
+534,534,General Medicine,Cardiovascular-Pulmonary,4
+535,535,General Medicine,General Medicine,3
+536,536,General Medicine,General Medicine,2
+537,537,General Medicine,General Medicine,2
+538,538,General Medicine,General Medicine,0
+539,539,General Medicine,General Medicine,1
+540,540,General Medicine,General Medicine,2
+541,244,General Medicine,Cardiovascular-Pulmonary,0
+542,542,General Medicine,General Medicine,4
+543,543,General Medicine,General Medicine,1
+544,544,General Medicine,Cardiovascular-Pulmonary,3
+545,339,General Medicine,General Medicine,2
+546,546,General Medicine,General Medicine,0
+547,547,General Medicine,General Medicine,4
+548,548,General Medicine,Orthopedic,2
+549,549,General Medicine,General Medicine,3
+550,550,General Medicine,General Medicine,2
+551,525,General Medicine,General Medicine,0
+552,552,General Medicine,General Medicine,3
+553,553,General Medicine,General Medicine,0
+554,554,General Medicine,General Medicine,4
+555,555,General Medicine,General Medicine,0
+556,556,General Medicine,General Medicine,3
+557,557,General Medicine,General Medicine,4
+558,38,General Medicine,Cardiovascular-Pulmonary,3
+559,559,General Medicine,General Medicine,0
+560,560,General Medicine,Obstetrics-Gynecology,3
+561,561,General Medicine,General Medicine,0
+562,562,General Medicine,General Medicine,1
+563,563,General Medicine,General Medicine,2
+564,564,General Medicine,General Medicine,1
+565,565,General Medicine,Surgery,0
+566,305,General Medicine,General Medicine,3
+567,567,General Medicine,General Medicine,4
+568,567,General Medicine,General Medicine,4
+569,569,General Medicine,General Medicine,1
+570,570,General Medicine,General Medicine,2
+571,571,General Medicine,General Medicine,4
+572,567,General Medicine,General Medicine,4
+573,573,General Medicine,Orthopedic,2
+574,574,General Medicine,General Medicine,2
+575,575,General Medicine,General Medicine,0
+576,576,General Medicine,General Medicine,1
+577,577,General Medicine,General Medicine,3
+578,578,General Medicine,General Medicine,1
+579,579,General Medicine,General Medicine,1
+580,580,General Medicine,Surgery,2
+581,581,General Medicine,Cardiovascular-Pulmonary,3
+582,582,General Medicine,General Medicine,4
+583,583,General Medicine,General Medicine,0
+584,584,General Medicine,General Medicine,2
+585,585,General Medicine,General Medicine,3
+586,586,General Medicine,General Medicine,0
+587,80,General Medicine,Cardiovascular-Pulmonary,1
+588,588,General Medicine,General Medicine,4
+589,589,General Medicine,General Medicine,1
+590,590,General Medicine,General Medicine,4
+591,591,General Medicine,General Medicine,0
+592,592,General Medicine,General Medicine,1
+593,593,General Medicine,General Medicine,2
+594,594,General Medicine,General Medicine,3
+595,595,General Medicine,General Medicine,2
+596,596,General Medicine,General Medicine,4
+597,597,General Medicine,General Medicine,3
+598,515,General Medicine,General Medicine,4
+599,75,General Medicine,General Medicine,0
+600,600,General Medicine,General Medicine,0
+601,601,General Medicine,General Medicine,4
+602,602,General Medicine,Cardiovascular-Pulmonary,0
+603,603,General Medicine,General Medicine,1
+604,604,General Medicine,General Medicine,2
+605,605,General Medicine,General Medicine,3
+606,606,General Medicine,Gastroenterology,1
+607,607,General Medicine,General Medicine,4
+608,608,General Medicine,General Medicine,1
+609,609,General Medicine,Orthopedic,3
+610,610,General Medicine,Cardiovascular-Pulmonary,2
+611,611,General Medicine,General Medicine,0
+612,612,General Medicine,General Medicine,3
+613,613,General Medicine,General Medicine,1
+614,614,General Medicine,General Medicine,4
+615,615,General Medicine,General Medicine,0
+616,616,General Medicine,Orthopedic,2
+617,617,General Medicine,General Medicine,2
+618,618,General Medicine,General Medicine,1
+619,619,General Medicine,General Medicine,1
+620,620,General Medicine,General Medicine,3
+621,621,General Medicine,General Medicine,3
+622,622,General Medicine,General Medicine,4
+623,623,General Medicine,Cardiovascular-Pulmonary,3
+624,624,General Medicine,Cardiovascular-Pulmonary,4
+625,625,General Medicine,General Medicine,4
+626,626,General Medicine,General Medicine,0
+627,627,General Medicine,General Medicine,1
+628,628,General Medicine,General Medicine,2
+629,629,General Medicine,General Medicine,4
+630,630,General Medicine,General Medicine,3
+631,631,General Medicine,General Medicine,1
+632,632,General Medicine,General Medicine,0
+633,633,General Medicine,General Medicine,0
+634,319,General Medicine,Orthopedic,4
+635,201,General Medicine,General Medicine,4
+636,636,General Medicine,General Medicine,3
+637,637,General Medicine,General Medicine,4
+638,638,General Medicine,General Medicine,3
+639,56,General Medicine,General Medicine,4
+640,515,General Medicine,General Medicine,4
+641,641,General Medicine,General Medicine,1
+642,622,General Medicine,General Medicine,4
+643,643,General Medicine,General Medicine,2
+644,644,General Medicine,General Medicine,0
+645,645,General Medicine,Surgery,0
+646,646,General Medicine,General Medicine,2
+647,647,General Medicine,General Medicine,3
+648,648,General Medicine,General Medicine,4
+649,649,General Medicine,General Medicine,2
+650,650,General Medicine,General Medicine,1
+651,651,General Medicine,General Medicine,0
+652,652,General Medicine,General Medicine,0
+653,653,General Medicine,Cardiovascular-Pulmonary,2
+654,654,General Medicine,General Medicine,2
+655,655,General Medicine,General Medicine,2
+656,656,General Medicine,Orthopedic,1
+657,657,General Medicine,General Medicine,4
+658,658,General Medicine,General Medicine,4
+659,659,General Medicine,General Medicine,3
+660,660,General Medicine,General Medicine,3
+661,661,General Medicine,General Medicine,0
+662,40,General Medicine,Cardiovascular-Pulmonary,0
+663,663,General Medicine,General Medicine,4
+664,229,General Medicine,Cardiovascular-Pulmonary,1
+665,665,General Medicine,General Medicine,1
+666,666,General Medicine,General Medicine,0
+667,667,General Medicine,General Medicine,1
+668,668,General Medicine,Neurology,2
+669,669,General Medicine,Obstetrics-Gynecology,4
+670,670,General Medicine,General Medicine,0
+671,671,General Medicine,General Medicine,1
+672,672,General Medicine,General Medicine,3
+673,673,General Medicine,General Medicine,2
+674,674,General Medicine,General Medicine,2
+675,675,General Medicine,General Medicine,3
+676,676,General Medicine,General Medicine,4
+677,677,General Medicine,General Medicine,4
+678,678,General Medicine,General Medicine,1
+679,679,General Medicine,Radiology,1
+680,680,General Medicine,General Medicine,0
+681,681,General Medicine,General Medicine,0
+682,682,General Medicine,General Medicine,4
+683,614,General Medicine,General Medicine,4
+684,684,General Medicine,General Medicine,4
+685,685,General Medicine,General Medicine,1
+686,686,General Medicine,Neurology,2
+687,687,General Medicine,General Medicine,3
+688,688,General Medicine,General Medicine,2
+689,515,General Medicine,General Medicine,4
+690,690,General Medicine,General Medicine,4
+691,691,General Medicine,General Medicine,0
+692,692,General Medicine,Gastroenterology,1
+693,693,General Medicine,General Medicine,3
+694,694,General Medicine,General Medicine,3
+695,695,General Medicine,General Medicine,2
+696,696,General Medicine,General Medicine,3
+697,697,General Medicine,Gastroenterology,0
+698,698,General Medicine,General Medicine,3
+699,699,General Medicine,General Medicine,2
+700,700,General Medicine,General Medicine,1
+701,701,General Medicine,General Medicine,4
+702,702,General Medicine,General Medicine,2
+703,703,General Medicine,Orthopedic,4
+704,704,General Medicine,General Medicine,0
+705,705,General Medicine,General Medicine,1
+706,706,General Medicine,General Medicine,3
+707,707,General Medicine,General Medicine,4
+708,708,General Medicine,General Medicine,0
+709,709,General Medicine,General Medicine,3
+710,710,General Medicine,Neurosurgery,0
+711,711,General Medicine,Orthopedic,1
+712,712,General Medicine,General Medicine,4
+713,713,General Medicine,General Medicine,1
+714,714,General Medicine,General Medicine,2
+715,356,General Medicine,General Medicine,2
+716,716,Neurology,Neurology,0
+717,717,Neurology,Neurology,1
+718,718,Neurology,Neurology,1
+719,719,Neurology,Neurology,2
+720,720,Neurology,Neurology,3
+721,721,Neurology,General Medicine,4
+722,722,Neurology,Orthopedic,0
+723,723,Neurology,General Medicine,0
+724,724,Neurology,Orthopedic,1
+725,725,Neurology,Neurology,4
+726,726,Neurology,Radiology,1
+727,727,Neurology,Radiology,3
+728,728,Neurology,Orthopedic,2
+729,729,Neurology,Neurology,2
+730,730,Neurology,Radiology,2
+731,731,Neurology,Orthopedic,0
+732,732,Neurology,Neurology,2
+733,733,Neurology,Neurology,1
+734,734,Neurology,Orthopedic,3
+735,735,Neurology,Neurology,0
+736,736,Neurology,Neurology,3
+737,737,Neurology,Neurology,2
+738,738,Neurology,Orthopedic,4
+739,739,Neurology,Neurology,4
+740,740,Neurology,Neurology,3
+741,741,Neurology,Neurosurgery,4
+742,742,Neurology,Neurology,3
+743,743,Neurology,Neurology,0
+744,744,Neurology,Neurology,0
+745,745,Neurology,Radiology,3
+746,746,Neurology,Radiology,2
+747,747,Neurology,Neurology,1
+748,748,Neurology,Surgery,0
+749,749,Neurology,Radiology,2
+750,750,Neurology,Neurology,1
+751,751,Neurology,Psychiatry-Psychology,4
+752,752,Neurology,Neurology,4
+753,753,Neurology,Radiology,3
+754,754,Neurology,General Medicine,2
+755,755,Neurology,Radiology,1
+756,756,Neurology,General Medicine,2
+757,757,Neurology,Neurology,2
+758,758,Neurology,Surgery,0
+759,759,Neurology,Neurology,3
+760,760,Neurology,Neurology,4
+761,761,Neurology,Radiology,1
+762,762,Neurology,Neurology,4
+763,763,Neurology,Neurology,0
+764,764,Neurology,Neurology,3
+765,765,Neurology,Neurology,2
+766,766,Neurology,Neurology,4
+767,767,Neurology,Neurology,1
+768,768,Neurology,Neurology,0
+769,769,Neurology,Radiology,2
+770,770,Neurology,Orthopedic,0
+771,771,Neurology,Orthopedic,2
+772,772,Neurology,Neurology,1
+773,773,Neurology,Neurology,3
+774,774,Neurology,Neurology,1
+775,775,Neurology,Radiology,2
+776,776,Neurology,Neurosurgery,1
+777,777,Neurology,Neurology,2
+778,778,Neurology,Neurology,4
+779,779,Neurology,Neurology,3
+780,780,Neurology,Neurology,4
+781,781,Neurology,Radiology,0
+782,782,Neurology,Neurology,3
+783,783,Neurology,Radiology,3
+784,784,Neurology,Neurology,2
+785,785,Neurology,Neurology,1
+786,786,Neurology,General Medicine,0
+787,787,Neurology,Neurology,1
+788,788,Neurology,Radiology,4
+789,789,Neurology,Surgery,1
+790,790,Neurology,Psychiatry-Psychology,4
+791,791,Neurology,Neurology,0
+792,792,Neurology,Neurology,2
+793,793,Neurology,Radiology,3
+794,794,Neurology,Neurology,2
+795,795,Neurology,General Medicine,0
+796,796,Neurology,Radiology,4
+797,797,Neurology,Psychiatry-Psychology,1
+798,798,Neurology,Neurology,0
+799,799,Neurology,Neurology,2
+800,800,Neurology,General Medicine,4
+801,801,Neurology,Neurology,4
+802,802,Neurology,Neurology,3
+803,803,Neurology,Neurology,3
+804,804,Neurology,Radiology,3
+805,805,Neurology,Neurology,1
+806,806,Neurology,Neurology,2
+807,807,Neurology,Radiology,4
+808,808,Neurology,Neurology,0
+809,809,Neurology,Neurology,0
+810,810,Neurology,Neurosurgery,1
+811,811,Neurology,Orthopedic,4
+812,812,Neurology,Neurosurgery,2
+813,813,Neurology,Neurology,1
+814,814,Neurology,Neurosurgery,2
+815,815,Neurology,Orthopedic,2
+816,816,Neurology,Radiology,0
+817,817,Neurology,Radiology,3
+818,818,Neurology,Neurosurgery,3
+819,819,Neurology,Neurology,4
+820,820,Neurology,Orthopedic,0
+821,821,Neurology,Neurosurgery,1
+822,822,Neurology,Neurology,1
+823,823,Neurology,General Medicine,4
+824,824,Neurology,Radiology,2
+825,825,Neurology,Psychiatry-Psychology,3
+826,826,Neurology,Neurology,3
+827,827,Neurology,Radiology,4
+828,828,Neurology,Neurology,0
+829,829,Neurology,Neurology,3
+830,830,Neurology,Neurology,2
+831,831,Neurology,Psychiatry-Psychology,2
+832,832,Neurology,Neurosurgery,4
+833,833,Neurology,Neurology,3
+834,834,Neurology,Radiology,1
+835,835,Neurology,Neurology,1
+836,836,Neurology,Neurology,1
+837,837,Neurology,Neurology,2
+838,838,Neurology,Neurology,0
+839,839,Neurology,Neurology,0
+840,840,Neurology,General Medicine,4
+841,841,Neurology,Radiology,1
+842,842,Neurology,Radiology,2
+843,843,Neurology,Neurosurgery,3
+844,844,Neurology,Neurology,0
+845,845,Neurology,Neurology,1
+846,846,Neurology,Neurology,3
+847,847,Neurology,Neurology,4
+848,848,Neurology,General Medicine,4
+849,849,Neurology,Neurology,4
+850,850,Neurology,Neurology,0
+851,851,Neurology,Neurology,2
+852,852,Neurology,Orthopedic,1
+853,853,Neurology,Neurology,2
+854,854,Neurology,Neurology,3
+855,855,Neurology,General Medicine,3
+856,856,Neurology,Neurology,1
+857,857,Neurology,Neurology,0
+858,858,Neurology,Neurology,3
+859,859,Neurology,Surgery,0
+860,860,Neurology,General Medicine,2
+861,861,Neurology,Neurosurgery,4
+862,862,Neurology,Neurology,3
+863,863,Neurology,Neurology,0
+864,864,Neurology,Orthopedic,1
+865,865,Neurology,Neurology,4
+866,866,Neurology,Neurology,4
+867,867,Neurology,General Medicine,3
+868,249,Neurology,Cardiovascular-Pulmonary,2
+869,869,Neurology,Neurology,4
+870,870,Neurology,Radiology,0
+871,871,Neurology,General Medicine,0
+872,872,Neurology,Orthopedic,2
+873,873,Neurology,Neurology,1
+874,874,Neurology,Radiology,1
+875,875,Neurology,Neurology,0
+876,876,Neurology,Neurology,2
+877,877,Neurology,Radiology,2
+878,878,Neurology,Neurology,1
+879,879,Neurology,Neurology,3
+880,880,Neurology,Radiology,1
+881,881,Neurology,Psychiatry-Psychology,0
+882,882,Neurology,Cardiovascular-Pulmonary,2
+883,883,Neurology,General Medicine,3
+884,884,Neurology,Neurology,4
+885,885,Neurology,Neurology,4
+886,886,Neurology,Radiology,4
+887,887,Neurology,Neurosurgery,2
+888,888,Neurology,Neurosurgery,3
+889,889,Neurology,Surgery,0
+890,890,Neurology,Neurology,2
+891,891,Neurology,Neurology,0
+892,892,Neurology,Neurology,4
+893,893,Neurology,Radiology,2
+894,894,Neurology,Radiology,0
+895,895,Neurology,Surgery,1
+896,896,Neurosurgery,Neurosurgery,3
+897,897,Neurosurgery,Neurosurgery,0
+898,898,Neurosurgery,Orthopedic,1
+899,899,Neurosurgery,Neurosurgery,4
+900,852,Neurosurgery,Orthopedic,1
+901,901,Neurosurgery,Neurosurgery,1
+902,902,Neurosurgery,Neurosurgery,2
+903,903,Neurosurgery,Orthopedic,3
+904,832,Neurosurgery,Neurosurgery,4
+905,758,Neurosurgery,Surgery,0
+906,906,Neurosurgery,Orthopedic,0
+907,907,Neurosurgery,Neurology,3
+908,908,Neurosurgery,Neurosurgery,4
+909,909,Neurosurgery,Neurosurgery,2
+910,910,Neurosurgery,Neurosurgery,1
+911,843,Neurosurgery,Neurosurgery,3
+912,912,Neurosurgery,Neurosurgery,2
+913,913,Neurosurgery,Neurosurgery,0
+914,789,Neurosurgery,Surgery,1
+915,741,Neurosurgery,Neurosurgery,4
+916,916,Neurosurgery,Orthopedic,3
+917,889,Neurosurgery,Surgery,0
+918,887,Neurosurgery,Neurosurgery,2
+919,919,Neurosurgery,Surgery,2
+920,920,Neurosurgery,Neurosurgery,2
+921,921,Neurosurgery,Orthopedic,4
+922,922,Neurosurgery,Neurosurgery,4
+923,734,Neurosurgery,Orthopedic,3
+924,895,Neurosurgery,Surgery,1
+925,925,Neurosurgery,Orthopedic,3
+926,818,Neurosurgery,Neurosurgery,3
+927,927,Neurosurgery,Neurosurgery,4
+928,888,Neurosurgery,Neurosurgery,3
+929,929,Neurosurgery,Neurosurgery,0
+930,874,Neurosurgery,Radiology,1
+931,931,Neurosurgery,Obstetrics-Gynecology,3
+932,932,Gastroenterology,Gastroenterology,1
+933,933,Neurology,Neurology,3
+934,934,Neurosurgery,Neurosurgery,2
+935,812,Neurosurgery,Neurosurgery,2
+936,936,Neurosurgery,Neurosurgery,1
+937,937,Neurosurgery,Neurosurgery,3
+938,882,Neurosurgery,Cardiovascular-Pulmonary,2
+939,939,Neurosurgery,Surgery,0
+940,940,Neurosurgery,Neurosurgery,4
+941,941,Neurosurgery,Orthopedic,0
+942,776,Neurosurgery,Neurosurgery,1
+943,943,Neurosurgery,Neurosurgery,4
+944,944,Neurosurgery,Orthopedic,2
+945,945,Neurosurgery,Orthopedic,1
+946,946,Neurosurgery,Surgery,0
+947,947,Neurosurgery,Neurosurgery,1
+948,948,Neurosurgery,Orthopedic,1
+949,949,Neurosurgery,Surgery,2
+950,950,Neurosurgery,Neurosurgery,3
+951,861,Neurosurgery,Neurosurgery,4
+952,952,Neurosurgery,Neurosurgery,2
+953,953,Neurosurgery,Neurosurgery,3
+954,954,Neurosurgery,Surgery,4
+955,955,Neurosurgery,Neurosurgery,0
+956,956,Neurosurgery,Neurosurgery,1
+957,957,Neurosurgery,Neurosurgery,4
+958,958,Neurosurgery,Neurosurgery,3
+959,959,Neurosurgery,Surgery,4
+960,814,Neurosurgery,Neurosurgery,2
+961,961,Neurosurgery,Neurosurgery,0
+962,962,Neurosurgery,Neurosurgery,0
+963,963,Neurosurgery,Cardiovascular-Pulmonary,2
+964,964,Neurosurgery,Surgery,1
+965,859,Neurosurgery,Surgery,0
+966,966,Neurosurgery,Neurosurgery,4
+967,967,Neurosurgery,Orthopedic,2
+968,748,Neurosurgery,Surgery,0
+969,969,Neurosurgery,Orthopedic,3
+970,970,Neurosurgery,Neurosurgery,1
+971,971,Neurosurgery,Neurosurgery,3
+972,833,Neurosurgery,Neurology,3
+973,973,Neurosurgery,Orthopedic,4
+974,974,Neurosurgery,Neurosurgery,0
+975,975,Neurosurgery,Neurosurgery,0
+976,976,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+977,977,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+978,978,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+979,979,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+980,980,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+981,981,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+982,982,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+983,983,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+984,984,Obstetrics-Gynecology,Radiology,2
+985,985,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+986,986,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+987,987,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+988,988,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+989,989,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+990,990,Obstetrics-Gynecology,Gastroenterology,3
+991,991,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+992,992,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+993,993,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+994,994,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+995,995,Obstetrics-Gynecology,Surgery,1
+996,996,Obstetrics-Gynecology,Neurology,2
+997,66,Obstetrics-Gynecology,Cardiovascular-Pulmonary,1
+998,998,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+999,999,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1000,1000,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1001,1001,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1002,1002,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1003,1003,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1004,1004,Obstetrics-Gynecology,Surgery,3
+1005,1005,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1006,1006,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1007,1007,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1008,1008,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1009,1009,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1010,1010,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1011,1011,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1012,1012,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1013,1013,Obstetrics-Gynecology,Radiology,4
+1014,1014,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1015,1015,Obstetrics-Gynecology,Radiology,4
+1016,1016,Obstetrics-Gynecology,General Medicine,0
+1017,1017,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1018,1018,Obstetrics-Gynecology,Surgery,2
+1019,1019,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1020,1020,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1021,1021,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1022,1022,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1023,1023,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1024,1024,Obstetrics-Gynecology,Surgery,3
+1025,1025,Obstetrics-Gynecology,Surgery,4
+1026,1026,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1027,1027,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1028,1028,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1029,1029,Obstetrics-Gynecology,Gastroenterology,1
+1030,1030,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1031,1031,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1032,1032,Obstetrics-Gynecology,Radiology,4
+1033,1033,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1034,1034,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1035,1035,Obstetrics-Gynecology,Surgery,0
+1036,1036,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1037,1037,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1038,1038,Obstetrics-Gynecology,Radiology,0
+1039,1039,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1040,1040,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1041,1041,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1042,1042,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1043,1043,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1044,1044,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1045,1045,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1046,1046,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1047,1047,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1048,1048,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1049,1049,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1050,1050,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1051,1051,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1052,1052,Obstetrics-Gynecology,Ophthalmology,3
+1053,1053,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1054,1054,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1055,1055,Obstetrics-Gynecology,Surgery,2
+1056,1056,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1057,1057,Obstetrics-Gynecology,Surgery,0
+1058,1058,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1059,1059,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1060,1060,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1061,1061,Obstetrics-Gynecology,Radiology,3
+1062,1062,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1063,1063,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1064,1064,Obstetrics-Gynecology,Surgery,0
+1065,1065,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1066,1066,Obstetrics-Gynecology,Radiology,2
+1067,1067,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1068,1068,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1069,1069,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1070,1070,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1071,1071,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1072,1072,Obstetrics-Gynecology,Surgery,0
+1073,1073,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1074,1074,Obstetrics-Gynecology,Radiology,2
+1075,1075,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1076,1076,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1077,1077,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1078,1078,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1079,1079,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1080,500,Obstetrics-Gynecology,Gastroenterology,4
+1081,1081,Obstetrics-Gynecology,Surgery,4
+1082,1082,Obstetrics-Gynecology,Radiology,4
+1083,1083,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1084,1084,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1085,1085,Obstetrics-Gynecology,Surgery,3
+1086,1086,Obstetrics-Gynecology,Surgery,1
+1087,1087,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1088,1088,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1089,1089,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1090,1090,Obstetrics-Gynecology,Surgery,3
+1091,1091,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1092,1092,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1093,1093,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1094,1094,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1095,1095,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1096,1096,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1097,1097,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1098,1098,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1099,1099,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+1100,1100,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1101,1101,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1102,1102,Obstetrics-Gynecology,Radiology,3
+1103,1103,Obstetrics-Gynecology,Obstetrics-Gynecology,2
+1104,1104,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+1105,1105,Obstetrics-Gynecology,Radiology,2
+1106,1106,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+1107,1107,Obstetrics-Gynecology,Obstetrics-Gynecology,3
+1108,1108,Ophthalmology,Obstetrics-Gynecology,1
+1109,1109,Ophthalmology,Ophthalmology,0
+1110,1110,Ophthalmology,Neurology,4
+1111,1111,Ophthalmology,Ophthalmology,1
+1112,1112,Ophthalmology,Ophthalmology,2
+1113,1113,Ophthalmology,Ophthalmology,3
+1114,1114,Ophthalmology,Cardiovascular-Pulmonary,3
+1115,1115,Ophthalmology,Ophthalmology,4
+1116,1116,Ophthalmology,Ophthalmology,1
+1117,1117,Ophthalmology,Ophthalmology,0
+1118,1118,Ophthalmology,Ophthalmology,3
+1119,1119,Ophthalmology,Ophthalmology,0
+1120,1120,Ophthalmology,Ophthalmology,4
+1121,1121,Ophthalmology,Ophthalmology,2
+1122,1122,Ophthalmology,Ophthalmology,2
+1123,1123,Ophthalmology,Ophthalmology,0
+1124,1124,Ophthalmology,Ophthalmology,2
+1125,1125,Ophthalmology,Ophthalmology,3
+1126,1126,Ophthalmology,Surgery,3
+1127,1127,Ophthalmology,Ophthalmology,4
+1128,1128,Ophthalmology,Ophthalmology,1
+1129,1129,Ophthalmology,Ophthalmology,4
+1130,1130,Ophthalmology,Ophthalmology,0
+1131,1131,Ophthalmology,Surgery,1
+1132,1132,Ophthalmology,Ophthalmology,0
+1133,1133,Ophthalmology,Ophthalmology,1
+1134,1134,Ophthalmology,Ophthalmology,2
+1135,1135,Ophthalmology,Ophthalmology,4
+1136,1136,Ophthalmology,Ophthalmology,0
+1137,1137,Ophthalmology,Ophthalmology,3
+1138,1138,Ophthalmology,Ophthalmology,4
+1139,1139,Ophthalmology,Ophthalmology,0
+1140,1140,Ophthalmology,Ophthalmology,1
+1141,1141,Ophthalmology,Ophthalmology,2
+1142,1142,Ophthalmology,Ophthalmology,2
+1143,1143,Ophthalmology,Ophthalmology,3
+1144,1144,Ophthalmology,Ophthalmology,3
+1145,1145,Ophthalmology,Ophthalmology,4
+1146,1146,Ophthalmology,Ophthalmology,1
+1147,1147,Ophthalmology,Ophthalmology,3
+1148,1148,Ophthalmology,Ophthalmology,2
+1149,1149,Ophthalmology,Ophthalmology,0
+1150,1150,Ophthalmology,Ophthalmology,4
+1151,1151,Ophthalmology,Ophthalmology,4
+1152,1152,Ophthalmology,Ophthalmology,4
+1153,1153,Ophthalmology,Ophthalmology,0
+1154,1154,Ophthalmology,Ophthalmology,3
+1155,1155,Ophthalmology,Ophthalmology,1
+1156,1156,Ophthalmology,Ophthalmology,2
+1157,1157,Ophthalmology,Ophthalmology,4
+1158,1158,Ophthalmology,Ophthalmology,2
+1159,1159,Ophthalmology,Ophthalmology,1
+1160,1160,Ophthalmology,Ophthalmology,4
+1161,1161,Ophthalmology,Ophthalmology,3
+1162,1162,Ophthalmology,Ophthalmology,2
+1163,1163,Ophthalmology,Ophthalmology,0
+1164,1164,Ophthalmology,Neurology,2
+1165,1165,Ophthalmology,Ophthalmology,1
+1166,1166,Ophthalmology,Ophthalmology,3
+1167,1167,Ophthalmology,Ophthalmology,3
+1168,1168,Ophthalmology,Ophthalmology,2
+1169,1169,Ophthalmology,Ophthalmology,1
+1170,1170,Ophthalmology,Ophthalmology,3
+1171,1171,Ophthalmology,Ophthalmology,0
+1172,1172,Ophthalmology,Ophthalmology,1
+1173,1173,Ophthalmology,Ophthalmology,3
+1174,1174,Ophthalmology,Ophthalmology,1
+1175,1175,Ophthalmology,Ophthalmology,0
+1176,1176,Ophthalmology,Ophthalmology,4
+1177,1177,Ophthalmology,Ophthalmology,0
+1178,1178,Ophthalmology,Ophthalmology,1
+1179,1179,Orthopedic,Orthopedic,2
+1180,1180,Orthopedic,Surgery,3
+1181,1181,Orthopedic,Orthopedic,2
+1182,1182,Orthopedic,Orthopedic,0
+1183,952,Orthopedic,Neurosurgery,2
+1184,1184,Orthopedic,Orthopedic,4
+1185,1185,Orthopedic,Orthopedic,0
+1186,770,Orthopedic,Orthopedic,0
+1187,1187,Orthopedic,Orthopedic,4
+1188,1188,Orthopedic,Orthopedic,0
+1189,1189,Orthopedic,Orthopedic,1
+1190,804,Orthopedic,Radiology,3
+1191,1191,Orthopedic,Orthopedic,2
+1192,1192,Orthopedic,Orthopedic,4
+1193,1193,Orthopedic,Orthopedic,3
+1194,1194,Orthopedic,Orthopedic,0
+1195,761,Orthopedic,Radiology,1
+1196,1196,Orthopedic,General Medicine,1
+1197,1197,Orthopedic,Orthopedic,2
+1198,746,Orthopedic,Radiology,2
+1199,1199,Orthopedic,Orthopedic,0
+1200,1200,Orthopedic,Orthopedic,2
+1201,1201,Orthopedic,Orthopedic,4
+1202,1202,Orthopedic,Surgery,1
+1203,1203,Orthopedic,Surgery,3
+1204,1204,Orthopedic,Orthopedic,0
+1205,1205,Orthopedic,Orthopedic,4
+1206,1206,Orthopedic,Orthopedic,1
+1207,1207,Orthopedic,Surgery,1
+1208,1208,Orthopedic,Orthopedic,1
+1209,1209,Orthopedic,Orthopedic,3
+1210,805,Orthopedic,Neurology,1
+1211,1211,Orthopedic,Surgery,4
+1212,921,Orthopedic,Orthopedic,4
+1213,1213,Orthopedic,Orthopedic,1
+1214,1214,Orthopedic,Orthopedic,4
+1215,1215,Orthopedic,Surgery,4
+1216,948,Orthopedic,Orthopedic,1
+1217,1217,Orthopedic,Surgery,3
+1218,909,Orthopedic,Neurosurgery,2
+1219,1219,Orthopedic,Surgery,2
+1220,1220,Orthopedic,Orthopedic,2
+1221,1221,Orthopedic,Radiology,0
+1222,1222,Orthopedic,Surgery,3
+1223,1223,Orthopedic,Neurosurgery,2
+1224,734,Orthopedic,Orthopedic,3
+1225,901,Orthopedic,Neurosurgery,1
+1226,1226,Orthopedic,Orthopedic,1
+1227,1227,Orthopedic,Orthopedic,0
+1228,1228,Orthopedic,Surgery,3
+1229,922,Orthopedic,Neurosurgery,4
+1230,1230,Orthopedic,Orthopedic,2
+1231,962,Orthopedic,Neurosurgery,0
+1232,897,Orthopedic,Neurosurgery,0
+1233,1233,Orthopedic,Orthopedic,4
+1234,1234,Orthopedic,Orthopedic,0
+1235,1235,Orthopedic,Orthopedic,1
+1236,1236,Orthopedic,Orthopedic,2
+1237,1237,Orthopedic,Orthopedic,3
+1238,1238,Orthopedic,Orthopedic,4
+1239,1239,Orthopedic,Orthopedic,0
+1240,1240,Orthopedic,Orthopedic,1
+1241,1241,Orthopedic,Surgery,3
+1242,1242,Orthopedic,Surgery,0
+1243,1243,Orthopedic,Orthopedic,2
+1244,1244,Orthopedic,Orthopedic,3
+1245,1245,Orthopedic,Orthopedic,2
+1246,1246,Orthopedic,Orthopedic,4
+1247,966,Orthopedic,Neurosurgery,4
+1248,1248,Orthopedic,Orthopedic,1
+1249,1249,Orthopedic,Radiology,3
+1250,1250,Orthopedic,Orthopedic,3
+1251,1251,Orthopedic,Orthopedic,0
+1252,1252,Orthopedic,Surgery,1
+1253,1253,Orthopedic,Radiology,4
+1254,1254,Orthopedic,Orthopedic,0
+1255,791,Orthopedic,Neurology,0
+1256,1256,Orthopedic,Orthopedic,0
+1257,896,Orthopedic,Neurosurgery,3
+1258,1258,Orthopedic,Orthopedic,1
+1259,1259,Orthopedic,Orthopedic,2
+1260,964,Orthopedic,Surgery,1
+1261,1261,Orthopedic,Orthopedic,4
+1262,959,Orthopedic,Surgery,4
+1263,1263,Orthopedic,Orthopedic,2
+1264,1264,Orthopedic,Orthopedic,2
+1265,973,Orthopedic,Orthopedic,4
+1266,1266,Orthopedic,Orthopedic,1
+1267,1267,Orthopedic,Orthopedic,1
+1268,1268,Orthopedic,Radiology,4
+1269,957,Orthopedic,Neurosurgery,4
+1270,1270,Orthopedic,Orthopedic,1
+1271,1271,Orthopedic,Orthopedic,0
+1272,944,Orthopedic,Orthopedic,2
+1273,1273,Orthopedic,Orthopedic,2
+1274,1274,Orthopedic,Radiology,4
+1275,1275,Orthopedic,Radiology,4
+1276,1276,Orthopedic,Orthopedic,3
+1277,1277,Orthopedic,Radiology,0
+1278,1278,Orthopedic,Orthopedic,3
+1279,1279,Orthopedic,Surgery,1
+1280,1280,Orthopedic,Orthopedic,2
+1281,1281,Orthopedic,Radiology,4
+1282,1282,Orthopedic,Surgery,3
+1283,1283,Orthopedic,Orthopedic,1
+1284,1284,Orthopedic,Orthopedic,0
+1285,872,Orthopedic,Orthopedic,2
+1286,910,Orthopedic,Neurosurgery,1
+1287,1287,Orthopedic,Orthopedic,3
+1288,1288,Orthopedic,Orthopedic,1
+1289,1289,Orthopedic,Orthopedic,2
+1290,866,Orthopedic,Neurology,4
+1291,815,Orthopedic,Orthopedic,2
+1292,708,Orthopedic,General Medicine,0
+1293,724,Orthopedic,Orthopedic,1
+1294,1294,Orthopedic,Neurology,4
+1295,1295,Orthopedic,Orthopedic,4
+1296,925,Orthopedic,Orthopedic,3
+1297,1297,Orthopedic,Orthopedic,0
+1298,1298,Orthopedic,Surgery,2
+1299,1299,Orthopedic,Orthopedic,0
+1300,1300,Orthopedic,Orthopedic,0
+1301,1301,Orthopedic,Neurosurgery,4
+1302,1302,Orthopedic,Orthopedic,2
+1303,1303,Orthopedic,Orthopedic,3
+1304,1304,Orthopedic,Surgery,3
+1305,842,Orthopedic,Radiology,2
+1306,933,Orthopedic,Neurology,3
+1307,1307,Orthopedic,Orthopedic,3
+1308,1308,Orthopedic,Orthopedic,3
+1309,1309,Orthopedic,Orthopedic,4
+1310,1310,Orthopedic,Orthopedic,0
+1311,1311,Orthopedic,Surgery,1
+1312,1253,Orthopedic,Radiology,4
+1313,1313,Orthopedic,Surgery,3
+1314,1314,Orthopedic,Orthopedic,1
+1315,1315,Orthopedic,Orthopedic,1
+1316,1316,Orthopedic,Surgery,4
+1317,908,Orthopedic,Neurosurgery,4
+1318,1318,Orthopedic,Orthopedic,0
+1319,1319,Orthopedic,Orthopedic,0
+1320,1320,Orthopedic,Orthopedic,2
+1321,1321,Orthopedic,Orthopedic,2
+1322,1322,Orthopedic,Orthopedic,4
+1323,1323,Orthopedic,Radiology,3
+1324,1324,Orthopedic,Orthopedic,2
+1325,1325,Orthopedic,Orthopedic,2
+1326,1326,Orthopedic,Orthopedic,2
+1327,1327,Orthopedic,Orthopedic,3
+1328,1328,Orthopedic,Orthopedic,0
+1329,1329,Orthopedic,Orthopedic,3
+1330,1330,Orthopedic,Orthopedic,4
+1331,967,Orthopedic,Orthopedic,2
+1332,1332,Orthopedic,Orthopedic,0
+1333,792,Orthopedic,Neurology,2
+1334,1334,Orthopedic,Orthopedic,0
+1335,728,Orthopedic,Orthopedic,2
+1336,731,Orthopedic,Orthopedic,0
+1337,1337,Orthopedic,Neurosurgery,4
+1338,1338,Orthopedic,Orthopedic,1
+1339,1339,Orthopedic,Orthopedic,1
+1340,1258,Orthopedic,Orthopedic,1
+1341,1341,Orthopedic,Orthopedic,3
+1342,1342,Orthopedic,Orthopedic,4
+1343,1343,Orthopedic,Orthopedic,3
+1344,1344,Orthopedic,Orthopedic,2
+1345,941,Orthopedic,Orthopedic,0
+1346,1346,Orthopedic,Orthopedic,0
+1347,1347,Orthopedic,Orthopedic,1
+1348,1348,Orthopedic,Orthopedic,0
+1349,1349,Orthopedic,Orthopedic,3
+1350,1350,Orthopedic,Orthopedic,1
+1351,1351,Orthopedic,Orthopedic,4
+1352,1352,Orthopedic,Orthopedic,2
+1353,1353,Orthopedic,Orthopedic,0
+1354,1354,Orthopedic,Orthopedic,4
+1355,1355,Orthopedic,Orthopedic,0
+1356,1356,Orthopedic,Orthopedic,1
+1357,1357,Orthopedic,Surgery,2
+1358,775,Orthopedic,Radiology,2
+1359,1359,Orthopedic,Orthopedic,3
+1360,1360,Orthopedic,Orthopedic,1
+1361,1361,Orthopedic,Orthopedic,2
+1362,1362,Orthopedic,Orthopedic,3
+1363,1363,Orthopedic,Orthopedic,3
+1364,1364,Orthopedic,Radiology,4
+1365,1365,Orthopedic,Radiology,2
+1366,1366,Orthopedic,Orthopedic,4
+1367,1367,Orthopedic,Orthopedic,2
+1368,1368,Orthopedic,Orthopedic,4
+1369,870,Orthopedic,Radiology,0
+1370,1370,Orthopedic,Orthopedic,0
+1371,1371,Orthopedic,Orthopedic,1
+1372,1372,Orthopedic,Orthopedic,1
+1373,1373,Orthopedic,Surgery,1
+1374,1374,Orthopedic,Orthopedic,2
+1375,1375,Orthopedic,Orthopedic,3
+1376,1376,Orthopedic,Orthopedic,0
+1377,730,Orthopedic,Radiology,2
+1378,920,Orthopedic,Neurosurgery,2
+1379,961,Orthopedic,Neurosurgery,0
+1380,1380,Orthopedic,Orthopedic,4
+1381,1381,Orthopedic,Radiology,4
+1382,1382,Orthopedic,Orthopedic,2
+1383,1383,Orthopedic,Orthopedic,1
+1384,771,Orthopedic,Orthopedic,2
+1385,1385,Orthopedic,Orthopedic,0
+1386,1386,Orthopedic,Orthopedic,0
+1387,793,Orthopedic,Radiology,3
+1388,1388,Orthopedic,Orthopedic,3
+1389,1389,Orthopedic,Orthopedic,3
+1390,1390,Orthopedic,Orthopedic,4
+1391,1391,Orthopedic,Orthopedic,1
+1392,1392,Orthopedic,Orthopedic,3
+1393,1393,Orthopedic,Surgery,0
+1394,1394,Orthopedic,Surgery,4
+1395,1395,Orthopedic,Orthopedic,2
+1396,1396,Orthopedic,Surgery,1
+1397,969,Orthopedic,Orthopedic,3
+1398,1398,Orthopedic,Surgery,2
+1399,1399,Orthopedic,Orthopedic,1
+1400,1400,Orthopedic,Orthopedic,3
+1401,1401,Orthopedic,Orthopedic,0
+1402,1402,Orthopedic,Orthopedic,3
+1403,1403,Orthopedic,Orthopedic,1
+1404,1404,Orthopedic,Neurosurgery,4
+1405,927,Orthopedic,Neurosurgery,4
+1406,1406,Orthopedic,Orthopedic,4
+1407,878,Orthopedic,Neurology,1
+1408,929,Orthopedic,Neurosurgery,0
+1409,1409,Orthopedic,Orthopedic,2
+1410,1410,Orthopedic,Orthopedic,2
+1411,1411,Orthopedic,Orthopedic,3
+1412,1412,Orthopedic,Orthopedic,4
+1413,1413,Orthopedic,Orthopedic,0
+1414,1414,Orthopedic,Orthopedic,4
+1415,711,Orthopedic,Orthopedic,1
+1416,1416,Orthopedic,Orthopedic,3
+1417,1417,Orthopedic,Orthopedic,0
+1418,1418,Orthopedic,Orthopedic,1
+1419,1419,Orthopedic,Orthopedic,0
+1420,1420,Orthopedic,Orthopedic,2
+1421,1421,Orthopedic,Orthopedic,0
+1422,1422,Orthopedic,Orthopedic,1
+1423,1423,Orthopedic,Surgery,3
+1424,1424,Orthopedic,Surgery,3
+1425,1425,Orthopedic,Orthopedic,1
+1426,1426,Orthopedic,Surgery,4
+1427,1427,Orthopedic,Orthopedic,1
+1428,916,Orthopedic,Orthopedic,3
+1429,1429,Orthopedic,Neurosurgery,2
+1430,1430,Orthopedic,Orthopedic,3
+1431,1431,Orthopedic,Surgery,4
+1432,1432,Orthopedic,Neurosurgery,3
+1433,902,Orthopedic,Neurosurgery,2
+1434,894,Orthopedic,Radiology,0
+1435,1435,Orthopedic,Orthopedic,0
+1436,1436,Orthopedic,Orthopedic,1
+1437,955,Orthopedic,Neurosurgery,0
+1438,1438,Orthopedic,Orthopedic,0
+1439,1439,Orthopedic,Surgery,4
+1440,1440,Orthopedic,Orthopedic,2
+1441,1441,Orthopedic,Orthopedic,3
+1442,738,Orthopedic,Orthopedic,4
+1443,1443,Orthopedic,Surgery,0
+1444,869,Orthopedic,Neurology,4
+1445,1445,Orthopedic,Orthopedic,1
+1446,1446,Orthopedic,Orthopedic,3
+1447,722,Orthopedic,Orthopedic,0
+1448,1448,Orthopedic,Orthopedic,4
+1449,1449,Orthopedic,Orthopedic,2
+1450,811,Orthopedic,Orthopedic,4
+1451,764,Orthopedic,Neurology,3
+1452,950,Orthopedic,Neurosurgery,3
+1453,1421,Orthopedic,Orthopedic,0
+1454,1454,Orthopedic,Orthopedic,4
+1455,1455,Orthopedic,Orthopedic,1
+1456,1456,Orthopedic,Orthopedic,0
+1457,1457,Orthopedic,Orthopedic,4
+1458,1458,Orthopedic,Surgery,2
+1459,1459,Orthopedic,Orthopedic,3
+1460,1460,Orthopedic,Orthopedic,3
+1461,1461,Orthopedic,Orthopedic,0
+1462,1462,Orthopedic,Orthopedic,1
+1463,1463,Orthopedic,Orthopedic,2
+1464,1464,Orthopedic,Surgery,1
+1465,1465,Orthopedic,Orthopedic,4
+1466,1466,Orthopedic,Orthopedic,3
+1467,802,Orthopedic,Neurology,3
+1468,956,Orthopedic,Neurosurgery,1
+1469,898,Orthopedic,Orthopedic,1
+1470,1470,Psychiatry-Psychology,Psychiatry-Psychology,2
+1471,754,Psychiatry-Psychology,General Medicine,2
+1472,1472,Psychiatry-Psychology,Psychiatry-Psychology,0
+1473,1473,Psychiatry-Psychology,Psychiatry-Psychology,1
+1474,1474,Psychiatry-Psychology,Psychiatry-Psychology,2
+1475,1475,Psychiatry-Psychology,General Medicine,3
+1476,1476,Psychiatry-Psychology,Psychiatry-Psychology,2
+1477,1477,Psychiatry-Psychology,Psychiatry-Psychology,2
+1478,1478,Psychiatry-Psychology,Psychiatry-Psychology,4
+1479,858,Psychiatry-Psychology,Neurology,3
+1480,1480,Psychiatry-Psychology,Psychiatry-Psychology,1
+1481,1481,Psychiatry-Psychology,Psychiatry-Psychology,4
+1482,797,Psychiatry-Psychology,Psychiatry-Psychology,1
+1483,1483,Psychiatry-Psychology,Psychiatry-Psychology,0
+1484,825,Psychiatry-Psychology,Psychiatry-Psychology,3
+1485,1485,Psychiatry-Psychology,Psychiatry-Psychology,3
+1486,1486,Psychiatry-Psychology,Psychiatry-Psychology,1
+1487,1487,Psychiatry-Psychology,Psychiatry-Psychology,1
+1488,1488,Psychiatry-Psychology,Psychiatry-Psychology,2
+1489,1489,Psychiatry-Psychology,Psychiatry-Psychology,0
+1490,1490,Psychiatry-Psychology,Psychiatry-Psychology,4
+1491,1491,Psychiatry-Psychology,Psychiatry-Psychology,0
+1492,790,Psychiatry-Psychology,Psychiatry-Psychology,4
+1493,1493,Psychiatry-Psychology,Psychiatry-Psychology,4
+1494,1494,Psychiatry-Psychology,Psychiatry-Psychology,2
+1495,1495,Psychiatry-Psychology,Psychiatry-Psychology,3
+1496,1496,Psychiatry-Psychology,Psychiatry-Psychology,3
+1497,1497,Psychiatry-Psychology,Psychiatry-Psychology,1
+1498,1498,Psychiatry-Psychology,Psychiatry-Psychology,2
+1499,1499,Psychiatry-Psychology,Psychiatry-Psychology,4
+1500,831,Psychiatry-Psychology,Psychiatry-Psychology,2
+1501,1501,Psychiatry-Psychology,Psychiatry-Psychology,4
+1502,1502,Psychiatry-Psychology,Psychiatry-Psychology,0
+1503,1503,Psychiatry-Psychology,Psychiatry-Psychology,2
+1504,881,Psychiatry-Psychology,Psychiatry-Psychology,0
+1505,1505,Psychiatry-Psychology,Psychiatry-Psychology,0
+1506,1506,Psychiatry-Psychology,Psychiatry-Psychology,2
+1507,1507,Psychiatry-Psychology,Psychiatry-Psychology,1
+1508,1508,Psychiatry-Psychology,Psychiatry-Psychology,3
+1509,1509,Psychiatry-Psychology,Psychiatry-Psychology,2
+1510,1277,Radiology,Radiology,0
+1511,894,Radiology,Radiology,0
+1512,207,Radiology,Radiology,0
+1513,836,Radiology,Neurology,1
+1514,1514,Radiology,Radiology,4
+1515,1515,Radiology,Neurology,1
+1516,794,Radiology,Neurology,2
+1517,59,Radiology,Radiology,2
+1518,1518,Radiology,Radiology,4
+1519,880,Radiology,Radiology,1
+1520,192,Radiology,Radiology,0
+1521,210,Radiology,Radiology,0
+1522,141,Radiology,Cardiovascular-Pulmonary,1
+1523,1523,Radiology,Radiology,0
+1524,1524,Radiology,Radiology,2
+1525,1525,Radiology,Neurology,2
+1526,1249,Radiology,Radiology,3
+1527,1527,Radiology,Radiology,1
+1528,772,Radiology,Neurology,1
+1529,1082,Radiology,Radiology,4
+1530,866,Radiology,Neurology,4
+1531,1531,Radiology,Radiology,1
+1532,1532,Radiology,Cardiovascular-Pulmonary,3
+1533,392,Radiology,Radiology,4
+1534,1534,Radiology,Radiology,3
+1535,1253,Radiology,Radiology,4
+1536,209,Radiology,Radiology,4
+1537,128,Radiology,Radiology,3
+1538,175,Radiology,Radiology,3
+1539,1539,Radiology,Radiology,4
+1540,788,Radiology,Radiology,4
+1541,60,Radiology,Cardiovascular-Pulmonary,2
+1542,1542,Radiology,Radiology,2
+1543,1543,Radiology,Orthopedic,0
+1544,85,Radiology,Radiology,3
+1545,807,Radiology,Radiology,4
+1546,933,Radiology,Neurology,3
+1547,1547,Radiology,Radiology,0
+1548,893,Radiology,Radiology,2
+1549,782,Radiology,Neurology,3
+1550,746,Radiology,Radiology,2
+1551,1551,Radiology,Radiology,3
+1552,1552,Radiology,Radiology,2
+1553,742,Radiology,Neurology,3
+1554,1281,Radiology,Radiology,4
+1555,1555,Radiology,Radiology,1
+1556,1556,Radiology,Radiology,0
+1557,804,Radiology,Radiology,3
+1558,25,Radiology,Radiology,4
+1559,740,Radiology,Neurology,3
+1560,1038,Radiology,Radiology,0
+1561,1561,Radiology,Cardiovascular-Pulmonary,1
+1562,490,Radiology,Gastroenterology,1
+1563,177,Radiology,Cardiovascular-Pulmonary,3
+1564,284,Radiology,Cardiovascular-Pulmonary,2
+1565,1565,Radiology,Radiology,0
+1566,869,Radiology,Neurology,4
+1567,1567,Radiology,Cardiovascular-Pulmonary,4
+1568,1568,Radiology,Cardiovascular-Pulmonary,3
+1569,1569,Radiology,Radiology,1
+1570,722,Radiology,Orthopedic,0
+1571,1571,Radiology,Radiology,4
+1572,863,Radiology,Neurology,0
+1573,1573,Radiology,Orthopedic,2
+1574,1268,Radiology,Radiology,4
+1575,155,Radiology,Cardiovascular-Pulmonary,1
+1576,222,Radiology,Cardiovascular-Pulmonary,3
+1577,718,Radiology,Neurology,1
+1578,48,Radiology,Radiology,4
+1579,731,Radiology,Orthopedic,0
+1580,403,Radiology,Surgery,0
+1581,171,Radiology,Cardiovascular-Pulmonary,2
+1582,1582,Radiology,Orthopedic,3
+1583,1073,Radiology,Obstetrics-Gynecology,3
+1584,52,Radiology,Cardiovascular-Pulmonary,4
+1585,806,Radiology,Neurology,2
+1586,1323,Radiology,Radiology,3
+1587,1587,Radiology,Radiology,0
+1588,1236,Radiology,Orthopedic,2
+1589,429,Radiology,Gastroenterology,1
+1590,103,Radiology,Cardiovascular-Pulmonary,3
+1591,1060,Radiology,Obstetrics-Gynecology,2
+1592,783,Radiology,Radiology,3
+1593,500,Radiology,Gastroenterology,4
+1594,984,Radiology,Radiology,2
+1595,216,Radiology,Cardiovascular-Pulmonary,3
+1596,824,Radiology,Radiology,2
+1597,802,Radiology,Neurology,3
+1598,256,Radiology,Radiology,0
+1599,1015,Radiology,Radiology,4
+1600,241,Radiology,Radiology,0
+1601,1283,Radiology,Orthopedic,1
+1602,1602,Radiology,Radiology,4
+1603,1253,Radiology,Radiology,4
+1604,1207,Radiology,Surgery,1
+1605,1605,Radiology,Cardiovascular-Pulmonary,1
+1606,1066,Radiology,Radiology,2
+1607,1607,Radiology,Radiology,3
+1608,1200,Radiology,Orthopedic,2
+1609,1001,Radiology,Obstetrics-Gynecology,2
+1610,724,Radiology,Orthopedic,1
+1611,67,Radiology,Radiology,3
+1612,1612,Radiology,Radiology,1
+1613,787,Radiology,Neurology,1
+1614,419,Radiology,Radiology,4
+1615,294,Radiology,Cardiovascular-Pulmonary,1
+1616,726,Radiology,Radiology,1
+1617,1617,Radiology,Obstetrics-Gynecology,2
+1618,494,Radiology,Radiology,0
+1619,224,Radiology,Radiology,2
+1620,1102,Radiology,Radiology,3
+1621,879,Radiology,Neurology,3
+1622,828,Radiology,Neurology,0
+1623,1623,Radiology,Neurology,3
+1624,1624,Radiology,Radiology,4
+1625,785,Radiology,Neurology,1
+1626,1626,Radiology,Radiology,0
+1627,487,Radiology,Radiology,2
+1628,78,Radiology,Radiology,1
+1629,727,Radiology,Radiology,3
+1630,1365,Radiology,Radiology,2
+1631,842,Radiology,Radiology,2
+1632,1084,Radiology,Obstetrics-Gynecology,1
+1633,809,Radiology,Neurology,0
+1634,1634,Radiology,Radiology,4
+1635,791,Radiology,Neurology,0
+1636,17,Radiology,Radiology,2
+1637,853,Radiology,Neurology,2
+1638,1638,Radiology,Surgery,1
+1639,1051,Radiology,Obstetrics-Gynecology,4
+1640,1640,Radiology,Neurology,2
+1641,225,Radiology,Cardiovascular-Pulmonary,1
+1642,24,Radiology,Cardiovascular-Pulmonary,3
+1643,1275,Radiology,Radiology,4
+1644,811,Radiology,Orthopedic,4
+1645,1645,Radiology,Radiology,3
+1646,885,Radiology,Neurology,4
+1647,878,Radiology,Neurology,1
+1648,1648,Radiology,Cardiovascular-Pulmonary,4
+1649,410,Radiology,Radiology,4
+1650,1294,Radiology,Neurology,4
+1651,1651,Radiology,Neurology,0
+1652,1652,Radiology,Gastroenterology,4
+1653,1307,Radiology,Orthopedic,3
+1654,1654,Radiology,Radiology,2
+1655,1655,Radiology,Radiology,4
+1656,1656,Radiology,Obstetrics-Gynecology,0
+1657,167,Radiology,Cardiovascular-Pulmonary,2
+1658,761,Radiology,Radiology,1
+1659,1659,Radiology,Cardiovascular-Pulmonary,1
+1660,1324,Radiology,Orthopedic,2
+1661,1661,Radiology,Radiology,3
+1662,1421,Radiology,Orthopedic,0
+1663,1663,Radiology,Radiology,1
+1664,289,Radiology,Radiology,1
+1665,1221,Radiology,Radiology,0
+1666,793,Radiology,Radiology,3
+1667,865,Radiology,Neurology,4
+1668,851,Radiology,Neurology,2
+1669,1421,Radiology,Orthopedic,0
+1670,1032,Radiology,Radiology,4
+1671,1671,Radiology,Radiology,3
+1672,17,Radiology,Radiology,2
+1673,1673,Radiology,Gastroenterology,1
+1674,27,Radiology,Cardiovascular-Pulmonary,1
+1675,1675,Radiology,Radiology,4
+1676,178,Radiology,Radiology,4
+1677,1189,Radiology,Orthopedic,1
+1678,1678,Radiology,Cardiovascular-Pulmonary,2
+1679,3,Radiology,Radiology,3
+1680,737,Radiology,Neurology,2
+1681,8,Radiology,Radiology,0
+1682,1682,Radiology,Neurology,0
+1683,792,Radiology,Neurology,2
+1684,1321,Radiology,Orthopedic,2
+1685,1685,Radiology,Neurology,4
+1686,79,Radiology,Cardiovascular-Pulmonary,4
+1687,1274,Radiology,Radiology,4
+1688,753,Radiology,Radiology,3
+1689,1689,Radiology,Surgery,1
+1690,1690,Radiology,Surgery,2
+1691,405,Radiology,Radiology,2
+1692,502,Radiology,Gastroenterology,1
+1693,1693,Radiology,Radiology,3
+1694,765,Radiology,Neurology,2
+1695,1063,Radiology,Obstetrics-Gynecology,1
+1696,1696,Radiology,Radiology,0
+1697,1697,Radiology,Radiology,0
+1698,1074,Radiology,Radiology,2
+1699,218,Radiology,Radiology,0
+1700,679,Radiology,Radiology,1
+1701,870,Radiology,Radiology,0
+1702,1702,Radiology,Neurology,2
+1703,729,Radiology,Neurology,2
+1704,739,Radiology,Neurology,4
+1705,775,Radiology,Radiology,2
+1706,1354,Radiology,Orthopedic,4
+1707,1707,Radiology,Neurology,1
+1708,755,Radiology,Radiology,1
+1709,796,Radiology,Radiology,4
+1710,45,Radiology,Radiology,1
+1711,805,Radiology,Neurology,1
+1712,857,Radiology,Neurology,0
+1713,1713,Radiology,Cardiovascular-Pulmonary,2
+1714,93,Radiology,Radiology,1
+1715,850,Radiology,Neurology,0
+1716,834,Radiology,Radiology,1
+1717,1717,Radiology,Radiology,3
+1718,1718,Radiology,Radiology,4
+1719,1719,Radiology,Obstetrics-Gynecology,3
+1720,730,Radiology,Radiology,2
+1721,745,Radiology,Radiology,3
+1722,9,Radiology,Cardiovascular-Pulmonary,2
+1723,404,Radiology,Radiology,0
+1724,1724,Radiology,Radiology,3
+1725,1725,Surgery,Surgery,4
+1726,457,Surgery,Surgery,3
+1727,61,Surgery,Cardiovascular-Pulmonary,0
+1728,501,Surgery,Gastroenterology,0
+1729,1128,Surgery,Ophthalmology,1
+1730,1373,Surgery,Surgery,1
+1731,1261,Surgery,Orthopedic,4
+1732,312,Surgery,Dermatology,1
+1733,1004,Surgery,Surgery,3
+1734,299,Surgery,Surgery,4
+1735,1054,Surgery,Obstetrics-Gynecology,1
+1736,1006,Surgery,Obstetrics-Gynecology,2
+1737,129,Surgery,Cardiovascular-Pulmonary,4
+1738,1738,Surgery,Surgery,0
+1739,262,Surgery,Surgery,1
+1740,1740,Surgery,Surgery,4
+1741,1181,Surgery,Orthopedic,2
+1742,1742,Surgery,Surgery,1
+1743,1743,Surgery,Surgery,2
+1744,1744,Surgery,Surgery,0
+1745,1745,Surgery,Cardiovascular-Pulmonary,3
+1746,961,Surgery,Neurosurgery,0
+1747,39,Surgery,Cardiovascular-Pulmonary,1
+1748,1748,Surgery,Surgery,0
+1749,1749,Surgery,Surgery,3
+1750,26,Surgery,Cardiovascular-Pulmonary,0
+1751,1751,Surgery,Surgery,1
+1752,497,Surgery,Gastroenterology,3
+1753,919,Surgery,Surgery,2
+1754,1754,Surgery,Orthopedic,2
+1755,1755,Surgery,Orthopedic,0
+1756,1756,Surgery,Surgery,4
+1757,1757,Surgery,Surgery,1
+1758,1758,Surgery,Gastroenterology,0
+1759,1759,Surgery,Surgery,2
+1760,1760,Surgery,Surgery,2
+1761,1761,Surgery,Surgery,3
+1762,998,Surgery,Obstetrics-Gynecology,3
+1763,987,Surgery,Obstetrics-Gynecology,1
+1764,375,Surgery,Cardiovascular-Pulmonary,1
+1765,1765,Surgery,Ophthalmology,1
+1766,87,Surgery,Cardiovascular-Pulmonary,3
+1767,1767,Surgery,Surgery,4
+1768,1768,Surgery,Gastroenterology,3
+1769,1457,Surgery,Orthopedic,4
+1770,1157,Surgery,Ophthalmology,4
+1771,1771,Surgery,Surgery,4
+1772,1772,Surgery,Surgery,0
+1773,1360,Surgery,Orthopedic,1
+1774,977,Surgery,Obstetrics-Gynecology,4
+1775,117,Surgery,Cardiovascular-Pulmonary,2
+1776,1138,Surgery,Ophthalmology,4
+1777,1777,Surgery,Surgery,1
+1778,922,Surgery,Neurosurgery,4
+1779,1779,Surgery,Surgery,2
+1780,1780,Surgery,Surgery,3
+1781,1781,Surgery,Surgery,1
+1782,101,Surgery,Cardiovascular-Pulmonary,3
+1783,861,Surgery,Neurosurgery,4
+1784,1784,Surgery,Gastroenterology,4
+1785,265,Surgery,Cardiovascular-Pulmonary,3
+1786,1454,Surgery,Orthopedic,4
+1787,1787,Surgery,Surgery,0
+1788,1464,Surgery,Surgery,1
+1789,86,Surgery,Cardiovascular-Pulmonary,2
+1790,508,Surgery,Surgery,0
+1791,409,Surgery,Gastroenterology,3
+1792,1322,Surgery,Orthopedic,4
+1793,260,Surgery,Cardiovascular-Pulmonary,2
+1794,1048,Surgery,Obstetrics-Gynecology,2
+1795,395,Surgery,Cardiovascular-Pulmonary,2
+1796,1109,Surgery,Ophthalmology,0
+1797,1797,Surgery,Cardiovascular-Pulmonary,4
+1798,212,Surgery,Surgery,3
+1799,328,Surgery,Gastroenterology,2
+1800,1800,Surgery,Gastroenterology,4
+1801,1385,Surgery,Orthopedic,0
+1802,1802,Surgery,Surgery,2
+1803,115,Surgery,Cardiovascular-Pulmonary,1
+1804,1804,Surgery,Surgery,3
+1805,196,Surgery,Surgery,3
+1806,1806,Surgery,Surgery,0
+1807,456,Surgery,Gastroenterology,0
+1808,1429,Surgery,Neurosurgery,2
+1809,1809,Surgery,Cardiovascular-Pulmonary,3
+1810,1391,Surgery,Orthopedic,1
+1811,1811,Surgery,Surgery,4
+1812,1067,Surgery,Obstetrics-Gynecology,4
+1813,396,Surgery,Surgery,3
+1814,290,Surgery,Cardiovascular-Pulmonary,4
+1815,1815,Surgery,Surgery,2
+1816,1402,Surgery,Orthopedic,3
+1817,937,Surgery,Neurosurgery,3
+1818,1818,Surgery,Surgery,1
+1819,1819,Surgery,Surgery,2
+1820,1820,Surgery,Surgery,1
+1821,1389,Surgery,Orthopedic,3
+1822,326,Surgery,Gastroenterology,1
+1823,112,Surgery,Cardiovascular-Pulmonary,4
+1824,1824,Surgery,Surgery,2
+1825,462,Surgery,Surgery,2
+1826,1826,Surgery,Gastroenterology,3
+1827,439,Surgery,Surgery,4
+1828,1828,Surgery,Gastroenterology,1
+1829,1829,Surgery,Surgery,2
+1830,1830,Surgery,Surgery,2
+1831,927,Surgery,Neurosurgery,4
+1832,215,Surgery,Cardiovascular-Pulmonary,2
+1833,121,Surgery,Cardiovascular-Pulmonary,2
+1834,1834,Surgery,Psychiatry-Psychology,0
+1835,1127,Surgery,Ophthalmology,4
+1836,1131,Surgery,Surgery,1
+1837,1167,Surgery,Ophthalmology,3
+1838,263,Surgery,Cardiovascular-Pulmonary,4
+1839,306,Surgery,Surgery,2
+1840,1070,Surgery,Obstetrics-Gynecology,1
+1841,1841,Surgery,Surgery,2
+1842,982,Surgery,Obstetrics-Gynecology,1
+1843,313,Surgery,Dermatology,3
+1844,1095,Surgery,Obstetrics-Gynecology,2
+1845,1845,Surgery,Surgery,3
+1846,1424,Surgery,Surgery,3
+1847,976,Surgery,Obstetrics-Gynecology,2
+1848,1393,Surgery,Surgery,0
+1849,1162,Surgery,Ophthalmology,2
+1850,899,Surgery,Neurosurgery,4
+1851,504,Surgery,Gastroenterology,2
+1852,1852,Surgery,Surgery,1
+1853,1094,Surgery,Obstetrics-Gynecology,1
+1854,208,Surgery,Cardiovascular-Pulmonary,1
+1855,1855,Surgery,Orthopedic,0
+1856,1030,Surgery,Obstetrics-Gynecology,1
+1857,1132,Surgery,Ophthalmology,0
+1858,1163,Surgery,Ophthalmology,0
+1859,383,Surgery,Gastroenterology,0
+1860,1860,Surgery,Orthopedic,1
+1861,888,Surgery,Neurosurgery,3
+1862,153,Surgery,Cardiovascular-Pulmonary,0
+1863,1409,Surgery,Orthopedic,2
+1864,1864,Surgery,Surgery,4
+1865,1865,Surgery,Surgery,4
+1866,1866,Surgery,Surgery,4
+1867,1867,Surgery,Surgery,3
+1868,1868,Surgery,Cardiovascular-Pulmonary,3
+1869,1869,Surgery,Surgery,0
+1870,1049,Surgery,Obstetrics-Gynecology,0
+1871,1871,Surgery,Surgery,0
+1872,1872,Surgery,Orthopedic,4
+1873,421,Surgery,Gastroenterology,0
+1874,1024,Surgery,Surgery,3
+1875,383,Surgery,Gastroenterology,0
+1876,377,Surgery,Gastroenterology,0
+1877,1877,Surgery,Gastroenterology,1
+1878,436,Surgery,Gastroenterology,3
+1879,1879,Surgery,Surgery,4
+1880,425,Surgery,Gastroenterology,1
+1881,1881,Surgery,Orthopedic,2
+1882,131,Surgery,Cardiovascular-Pulmonary,1
+1883,1419,Surgery,Orthopedic,0
+1884,466,Surgery,Gastroenterology,0
+1885,973,Surgery,Orthopedic,4
+1886,135,Surgery,Cardiovascular-Pulmonary,1
+1887,1438,Surgery,Orthopedic,0
+1888,1888,Surgery,Cardiovascular-Pulmonary,0
+1889,1889,Surgery,Surgery,2
+1890,277,Surgery,Cardiovascular-Pulmonary,3
+1891,1891,Surgery,Surgery,3
+1892,1010,Surgery,Obstetrics-Gynecology,0
+1893,1893,Surgery,Surgery,3
+1894,95,Surgery,Surgery,4
+1895,1895,Surgery,Surgery,1
+1896,1248,Surgery,Orthopedic,1
+1897,1395,Surgery,Orthopedic,2
+1898,967,Surgery,Orthopedic,2
+1899,202,Surgery,Cardiovascular-Pulmonary,4
+1900,427,Surgery,Gastroenterology,0
+1901,1901,Surgery,Surgery,0
+1902,1902,Surgery,Surgery,1
+1903,1460,Surgery,Orthopedic,3
+1904,444,Surgery,Obstetrics-Gynecology,0
+1905,1905,Surgery,Gastroenterology,1
+1906,1906,Surgery,Surgery,4
+1907,455,Surgery,Gastroenterology,1
+1908,11,Surgery,Cardiovascular-Pulmonary,3
+1909,1172,Surgery,Ophthalmology,1
+1910,1910,Surgery,Gastroenterology,4
+1911,1911,Surgery,Surgery,2
+1912,1912,Surgery,Surgery,3
+1913,1913,Surgery,Orthopedic,0
+1914,163,Surgery,Surgery,0
+1915,1126,Surgery,Surgery,3
+1916,415,Surgery,Gastroenterology,4
+1917,1125,Surgery,Ophthalmology,3
+1918,1918,Surgery,Surgery,0
+1919,1332,Surgery,Orthopedic,0
+1920,1920,Surgery,Surgery,2
+1921,929,Surgery,Neurosurgery,0
+1922,1122,Surgery,Ophthalmology,2
+1923,438,Surgery,Gastroenterology,1
+1924,1924,Surgery,Surgery,1
+1925,1925,Surgery,Surgery,2
+1926,1284,Surgery,Orthopedic,0
+1927,1432,Surgery,Neurosurgery,3
+1928,1928,Surgery,Surgery,3
+1929,1929,Surgery,Cardiovascular-Pulmonary,3
+1930,964,Surgery,Surgery,1
+1931,810,Surgery,Neurosurgery,1
+1932,475,Surgery,Gastroenterology,0
+1933,230,Surgery,Surgery,3
+1934,1934,Surgery,Gastroenterology,0
+1935,426,Surgery,Gastroenterology,3
+1936,1936,Surgery,Surgery,4
+1937,1302,Surgery,Orthopedic,2
+1938,1938,Surgery,Surgery,1
+1939,1443,Surgery,Surgery,0
+1940,1940,Surgery,Surgery,2
+1941,1273,Surgery,Orthopedic,2
+1942,1942,Surgery,Surgery,4
+1943,1244,Surgery,Orthopedic,3
+1944,1944,Surgery,Gastroenterology,3
+1945,1945,Surgery,Ophthalmology,3
+1946,377,Surgery,Gastroenterology,0
+1947,1947,Surgery,Surgery,3
+1948,301,Surgery,Surgery,3
+1949,1949,Surgery,Surgery,1
+1950,1950,Surgery,Surgery,0
+1951,1951,Surgery,Surgery,2
+1952,821,Surgery,Neurosurgery,1
+1953,1363,Surgery,Orthopedic,3
+1954,1954,Surgery,Surgery,4
+1955,1211,Surgery,Surgery,4
+1956,1045,Surgery,Obstetrics-Gynecology,4
+1957,1957,Surgery,Surgery,1
+1958,1958,Surgery,Surgery,4
+1959,1053,Surgery,Obstetrics-Gynecology,0
+1960,1960,Surgery,Surgery,1
+1961,1287,Surgery,Orthopedic,3
+1962,1962,Surgery,Orthopedic,0
+1963,1963,Surgery,Surgery,2
+1964,1964,Surgery,Cardiovascular-Pulmonary,0
+1965,102,Surgery,Cardiovascular-Pulmonary,3
+1966,1966,Surgery,Surgery,2
+1967,1967,Surgery,Surgery,3
+1968,495,Surgery,Gastroenterology,2
+1969,1969,Surgery,Cardiovascular-Pulmonary,4
+1970,74,Surgery,Cardiovascular-Pulmonary,2
+1971,1971,Surgery,Surgery,0
+1972,1462,Surgery,Orthopedic,1
+1973,1973,Surgery,Surgery,4
+1974,1974,Surgery,Surgery,0
+1975,1975,Surgery,Surgery,1
+1976,1976,Surgery,Surgery,3
+1977,1223,Surgery,Neurosurgery,2
+1978,1978,Surgery,Surgery,4
+1979,1979,Surgery,Surgery,0
+1980,314,Surgery,Dermatology,4
+1981,916,Surgery,Orthopedic,3
+1982,1982,Surgery,Surgery,2
+1983,1983,Surgery,Ophthalmology,1
+1984,1337,Surgery,Neurosurgery,4
+1985,1985,Surgery,Surgery,3
+1986,1055,Surgery,Surgery,2
+1987,1319,Surgery,Orthopedic,0
+1988,96,Surgery,Cardiovascular-Pulmonary,2
+1989,1989,Surgery,Gastroenterology,1
+1990,293,Surgery,Surgery,3
+1991,1245,Surgery,Orthopedic,2
+1992,1992,Surgery,Surgery,0
+1993,1121,Surgery,Ophthalmology,2
+1994,19,Surgery,Cardiovascular-Pulmonary,4
+1995,1995,Surgery,Surgery,2
+1996,1058,Surgery,Obstetrics-Gynecology,4
+1997,1997,Surgery,Surgery,4
+1998,1998,Surgery,Surgery,0
+1999,461,Surgery,Gastroenterology,1
+2000,478,Surgery,Surgery,3
+2001,1098,Surgery,Obstetrics-Gynecology,4
+2002,240,Surgery,Surgery,2
+2003,981,Surgery,Obstetrics-Gynecology,3
+2004,941,Surgery,Orthopedic,0
+2005,903,Surgery,Orthopedic,3
+2006,2006,Surgery,Surgery,4
+2007,2007,Surgery,Surgery,1
+2008,435,Surgery,Gastroenterology,3
+2009,1087,Surgery,Obstetrics-Gynecology,2
+2010,2010,Surgery,Surgery,3
+2011,97,Surgery,Cardiovascular-Pulmonary,3
+2012,36,Surgery,Cardiovascular-Pulmonary,0
+2013,423,Surgery,Gastroenterology,2
+2014,1154,Surgery,Ophthalmology,3
+2015,1278,Surgery,Orthopedic,3
+2016,509,Surgery,Gastroenterology,4
+2017,200,Surgery,Cardiovascular-Pulmonary,2
+2018,1203,Surgery,Surgery,3
+2019,168,Surgery,Cardiovascular-Pulmonary,4
+2020,1076,Surgery,Obstetrics-Gynecology,3
+2021,1456,Surgery,Orthopedic,0
+2022,989,Surgery,Obstetrics-Gynecology,1
+2023,366,Surgery,Gastroenterology,2
+2024,1543,Surgery,Orthopedic,0
+2025,748,Surgery,Surgery,0
+2026,2026,Surgery,Surgery,2
+2027,887,Surgery,Neurosurgery,2
+2028,1303,Surgery,Orthopedic,3
+2029,2029,Surgery,Orthopedic,3
+2030,2030,Surgery,Surgery,2
+2031,2031,Surgery,Surgery,0
+2032,2032,Surgery,Surgery,1
+2033,2033,Surgery,Surgery,4
+2034,1129,Surgery,Ophthalmology,4
+2035,2035,Surgery,Surgery,2
+2036,2036,Surgery,Surgery,3
+2037,1233,Surgery,Orthopedic,4
+2038,2038,Surgery,Surgery,1
+2039,2039,Surgery,Surgery,0
+2040,1175,Surgery,Ophthalmology,0
+2041,329,Surgery,Gastroenterology,4
+2042,2042,Surgery,Surgery,1
+2043,1180,Surgery,Surgery,3
+2044,2044,Surgery,Gastroenterology,4
+2045,1235,Surgery,Orthopedic,1
+2046,939,Surgery,Surgery,0
+2047,2047,Surgery,Surgery,1
+2048,1376,Surgery,Orthopedic,0
+2049,1279,Surgery,Surgery,1
+2050,2050,Surgery,Obstetrics-Gynecology,3
+2051,2051,Surgery,Surgery,2
+2052,2052,Surgery,Obstetrics-Gynecology,3
+2053,1427,Surgery,Orthopedic,1
+2054,2054,Surgery,Orthopedic,4
+2055,2055,Surgery,Surgery,0
+2056,945,Surgery,Orthopedic,1
+2057,852,Surgery,Orthopedic,1
+2058,317,Surgery,Dermatology,1
+2059,2059,Surgery,Ophthalmology,4
+2060,2060,Surgery,Surgery,3
+2061,193,Surgery,Cardiovascular-Pulmonary,2
+2062,486,Surgery,Gastroenterology,1
+2063,132,Surgery,Surgery,1
+2064,1168,Surgery,Ophthalmology,2
+2065,1297,Surgery,Orthopedic,0
+2066,1158,Surgery,Ophthalmology,2
+2067,2067,Surgery,Surgery,2
+2068,2068,Surgery,Surgery,0
+2069,2069,Surgery,Surgery,0
+2070,496,Surgery,Gastroenterology,2
+2071,1396,Surgery,Surgery,1
+2072,363,Surgery,Surgery,2
+2073,2073,Surgery,Obstetrics-Gynecology,4
+2074,949,Surgery,Surgery,2
+2075,264,Surgery,Cardiovascular-Pulmonary,2
+2076,113,Surgery,Cardiovascular-Pulmonary,2
+2077,2077,Surgery,Gastroenterology,1
+2078,2078,Surgery,Surgery,2
+2079,126,Surgery,Cardiovascular-Pulmonary,4
+2080,946,Surgery,Surgery,0
+2081,2081,Surgery,Surgery,2
+2082,498,Surgery,Gastroenterology,4
+2083,1116,Surgery,Ophthalmology,1
+2084,1458,Surgery,Surgery,2
+2085,226,Surgery,Cardiovascular-Pulmonary,2
+2086,2086,Surgery,Cardiovascular-Pulmonary,4
+2087,130,Surgery,Surgery,0
+2088,372,Surgery,Gastroenterology,4
+2089,2089,Surgery,Surgery,1
+2090,2090,Surgery,Orthopedic,3
+2091,1288,Surgery,Orthopedic,1
+2092,2092,Surgery,Surgery,2
+2093,1092,Surgery,Obstetrics-Gynecology,0
+2094,2094,Surgery,Orthopedic,3
+2095,2095,Surgery,Surgery,1
+2096,124,Surgery,Cardiovascular-Pulmonary,3
+2097,1328,Surgery,Orthopedic,0
+2098,2098,Surgery,Surgery,0
+2099,2099,Surgery,Surgery,4
+2100,2100,Surgery,Orthopedic,2
+2101,910,Surgery,Neurosurgery,1
+2102,62,Surgery,Surgery,0
+2103,190,Surgery,Cardiovascular-Pulmonary,3
+2104,198,Surgery,Cardiovascular-Pulmonary,0
+2105,2105,Surgery,Surgery,3
+2106,2106,Surgery,Obstetrics-Gynecology,0
+2107,2107,Surgery,Surgery,4
+2108,814,Surgery,Neurosurgery,2
+2109,898,Surgery,Orthopedic,1
+2110,2110,Surgery,Surgery,0
+2111,2111,Surgery,Surgery,2
+2112,2112,Surgery,Surgery,1
+2113,2113,Surgery,Surgery,2
+2114,2114,Surgery,Surgery,4
+2115,506,Surgery,Gastroenterology,2
+2116,1170,Surgery,Ophthalmology,3
+2117,2117,Surgery,Obstetrics-Gynecology,4
+2118,1240,Surgery,Orthopedic,1
+2119,2119,Surgery,Dermatology,1
+2120,2120,Surgery,Surgery,1
+2121,2121,Surgery,Cardiovascular-Pulmonary,3
+2122,2122,Surgery,Surgery,2
+2123,12,Surgery,Cardiovascular-Pulmonary,0
+2124,2124,Surgery,Surgery,0
+2125,2125,Surgery,Surgery,3
+2126,15,Surgery,Cardiovascular-Pulmonary,1
+2127,2127,Surgery,Gastroenterology,4
+2128,1043,Surgery,Obstetrics-Gynecology,0
+2129,2129,Surgery,Surgery,0
+2130,161,Surgery,Cardiovascular-Pulmonary,4
+2131,2131,Surgery,Surgery,0
+2132,958,Surgery,Neurosurgery,3
+2133,2133,Surgery,Surgery,1
+2134,2134,Surgery,Surgery,0
+2135,2135,Surgery,Surgery,2
+2136,2136,Surgery,Surgery,3
+2137,344,Surgery,Gastroenterology,4
+2138,818,Surgery,Neurosurgery,3
+2139,843,Surgery,Neurosurgery,3
+2140,257,Surgery,Cardiovascular-Pulmonary,1
+2141,975,Surgery,Neurosurgery,0
+2142,152,Surgery,Cardiovascular-Pulmonary,4
+2143,1193,Surgery,Orthopedic,3
+2144,1219,Surgery,Surgery,2
+2145,32,Surgery,Cardiovascular-Pulmonary,1
+2146,47,Surgery,Surgery,1
+2147,2147,Surgery,Surgery,4
+2148,377,Surgery,Gastroenterology,0
+2149,214,Surgery,Cardiovascular-Pulmonary,1
+2150,1103,Surgery,Obstetrics-Gynecology,2
+2151,1068,Surgery,Obstetrics-Gynecology,3
+2152,1106,Surgery,Obstetrics-Gynecology,0
+2153,2153,Surgery,Cardiovascular-Pulmonary,2
+2154,162,Surgery,Cardiovascular-Pulmonary,0
+2155,2155,Surgery,Surgery,2
+2156,741,Surgery,Neurosurgery,4
+2157,1228,Surgery,Surgery,3
+2158,2158,Surgery,Surgery,1
+2159,442,Surgery,Gastroenterology,3
+2160,449,Surgery,Gastroenterology,4
+2161,1081,Surgery,Surgery,4
+2162,1267,Surgery,Orthopedic,1
+2163,2163,Surgery,Surgery,3
+2164,137,Surgery,Surgery,2
+2165,1445,Surgery,Orthopedic,1
+2166,2166,Surgery,Surgery,4
+2167,2167,Surgery,Gastroenterology,4
+2168,2168,Surgery,Surgery,0
+2169,921,Surgery,Orthopedic,4
+2170,41,Surgery,Surgery,4
+2171,948,Surgery,Orthopedic,1
+2172,1003,Surgery,Obstetrics-Gynecology,1
+2173,2173,Surgery,Orthopedic,0
+2174,2174,Surgery,Surgery,1
+2175,1134,Surgery,Ophthalmology,2
+2176,2176,Surgery,Surgery,1
+2177,406,Surgery,Gastroenterology,4
+2178,1238,Surgery,Orthopedic,4
+2179,432,Surgery,Gastroenterology,0
+2180,1314,Surgery,Orthopedic,1
+2181,2181,Surgery,Surgery,1
+2182,385,Surgery,Surgery,4
+2183,227,Surgery,Cardiovascular-Pulmonary,1
+2184,943,Surgery,Neurosurgery,4
+2185,2185,Surgery,Surgery,3
+2186,403,Surgery,Surgery,0
+2187,2187,Surgery,Surgery,2
+2188,1142,Surgery,Ophthalmology,2
+2189,31,Surgery,Cardiovascular-Pulmonary,4
+2190,2190,Surgery,Cardiovascular-Pulmonary,4
+2191,2191,Surgery,Orthopedic,2
+2192,1659,Surgery,Cardiovascular-Pulmonary,1
+2193,955,Surgery,Neurosurgery,0
+2194,343,Surgery,Gastroenterology,3
+2195,1146,Surgery,Ophthalmology,1
+2196,2196,Surgery,Surgery,0
+2197,2197,Surgery,Surgery,2
+2198,1404,Surgery,Neurosurgery,4
+2199,2199,Surgery,Surgery,3
+2200,2200,Surgery,Surgery,3
+2201,275,Surgery,Cardiovascular-Pulmonary,1
+2202,1551,Surgery,Radiology,3
+2203,2203,Surgery,Cardiovascular-Pulmonary,4
+2204,380,Surgery,Gastroenterology,1
+2205,2205,Surgery,Surgery,0
+2206,1042,Surgery,Obstetrics-Gynecology,3
+2207,1461,Surgery,Orthopedic,0
+2208,2208,Surgery,Surgery,2
+2209,2209,Surgery,Obstetrics-Gynecology,1
+2210,1101,Surgery,Obstetrics-Gynecology,2
+2211,108,Surgery,Cardiovascular-Pulmonary,2
+2212,1309,Surgery,Orthopedic,4
+2213,1638,Surgery,Surgery,1
+2214,184,Surgery,Cardiovascular-Pulmonary,3
+2215,2215,Surgery,Ophthalmology,4
+2216,83,Surgery,Cardiovascular-Pulmonary,4
+2217,2217,Surgery,Cardiovascular-Pulmonary,2
+2218,2218,Surgery,Surgery,3
+2219,346,Surgery,Gastroenterology,4
+2220,1093,Surgery,Obstetrics-Gynecology,4
+2221,1156,Surgery,Ophthalmology,2
+2222,1012,Surgery,Obstetrics-Gynecology,3
+2223,2223,Surgery,Surgery,2
+2224,2224,Surgery,Surgery,1
+2225,2225,Surgery,Gastroenterology,4
+2226,232,Surgery,Cardiovascular-Pulmonary,4
+2227,2227,Surgery,Surgery,0
+2228,422,Surgery,Gastroenterology,2
+2229,2229,Surgery,Surgery,2
+2230,1036,Surgery,Obstetrics-Gynecology,3
+2231,1689,Surgery,Surgery,1
+2232,50,Surgery,Cardiovascular-Pulmonary,3
+2233,2233,Surgery,Surgery,3
+2234,2234,Surgery,Surgery,1
+2235,330,Surgery,Gastroenterology,1
+2236,1044,Surgery,Obstetrics-Gynecology,1
+2237,1222,Surgery,Surgery,3
+2238,2238,Surgery,Orthopedic,1
+2239,1079,Surgery,Obstetrics-Gynecology,1
+2240,180,Surgery,Cardiovascular-Pulmonary,0
+2241,2241,Surgery,Cardiovascular-Pulmonary,3
+2242,2242,Surgery,Obstetrics-Gynecology,2
+2243,2243,Surgery,Orthopedic,4
+2244,1390,Surgery,Orthopedic,4
+2245,2245,Surgery,Surgery,0
+2246,2246,Surgery,Surgery,0
+2247,2247,Surgery,Surgery,0
+2248,149,Surgery,Surgery,1
+2249,2249,Surgery,Surgery,0
+2250,2250,Surgery,Surgery,2
+2251,431,Surgery,Gastroenterology,2
+2252,957,Surgery,Neurosurgery,4
+2253,1420,Surgery,Orthopedic,2
+2254,1301,Surgery,Neurosurgery,4
+2255,1028,Surgery,Obstetrics-Gynecology,0
+2256,2256,Surgery,Surgery,4
+2257,237,Surgery,Surgery,0
+2258,2258,Surgery,Surgery,3
+2259,2259,Surgery,Obstetrics-Gynecology,0
+2260,925,Surgery,Orthopedic,3
+2261,2261,Surgery,Cardiovascular-Pulmonary,1
+2262,470,Surgery,Gastroenterology,4
+2263,440,Surgery,Gastroenterology,0
+2264,1239,Surgery,Orthopedic,0
+2265,335,Surgery,Gastroenterology,0
+2266,1041,Surgery,Obstetrics-Gynecology,4
+2267,1366,Surgery,Orthopedic,4
+2268,2268,Surgery,Surgery,4
+2269,327,Surgery,Gastroenterology,2
+2270,2270,Surgery,Orthopedic,0
+2271,1355,Surgery,Orthopedic,0
+2272,2272,Surgery,Obstetrics-Gynecology,4
+2273,2273,Surgery,Surgery,1
+2274,2274,Surgery,Surgery,2
+2275,292,Surgery,Cardiovascular-Pulmonary,1
+2276,84,Surgery,Cardiovascular-Pulmonary,1
+2277,1014,Surgery,Obstetrics-Gynecology,3
+2278,2278,Surgery,Obstetrics-Gynecology,1
+2279,2279,Obstetrics-Gynecology,Obstetrics-Gynecology,4
+2280,2280,Surgery,Gastroenterology,3
+2281,2281,Surgery,Surgery,3
+2282,2209,Obstetrics-Gynecology,Obstetrics-Gynecology,1
+2283,1745,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+2284,2284,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,0
+2285,2285,General Medicine,General Medicine,2
+2286,94,Surgery,Surgery,0
+2287,1905,Gastroenterology,Gastroenterology,1
+2288,2106,Obstetrics-Gynecology,Obstetrics-Gynecology,0
+2289,2289,Surgery,Orthopedic,4
+2290,1357,Surgery,Surgery,2
+2291,2291,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,3
+2292,2292,Cardiovascular-Pulmonary,Cardiovascular-Pulmonary,4
+2293,971,Orthopedic,Neurosurgery,3
+2294,2294,Radiology,Radiology,0
+2295,839,Radiology,Neurology,0
+2296,122,Surgery,Surgery,3
+2297,2297,Surgery,Cardiovascular-Pulmonary,3
+2298,1346,Surgery,Orthopedic,0
+2299,1031,Surgery,Obstetrics-Gynecology,0
+2300,2300,Surgery,Cardiovascular-Pulmonary,1
+2301,969,Surgery,Orthopedic,3
+2302,220,Surgery,Cardiovascular-Pulmonary,4
+2303,1330,Surgery,Orthopedic,4
+2304,2304,Surgery,Ophthalmology,1
+2305,2305,Surgery,Surgery,2
+2306,2306,Surgery,Surgery,0
+2307,445,Surgery,Gastroenterology,4
+2308,484,Surgery,Gastroenterology,4
+2309,499,Surgery,Gastroenterology,1
+2310,2310,Surgery,Orthopedic,4
+2311,1403,Surgery,Orthopedic,1
+2312,1047,Surgery,Obstetrics-Gynecology,1
+2313,2313,Surgery,Surgery,0
+2314,376,Surgery,Gastroenterology,2
+2315,1086,Surgery,Surgery,1
+2316,1316,Surgery,Surgery,4
+2317,1304,Surgery,Surgery,3
+2318,2318,Surgery,Surgery,3
+2319,999,Surgery,Obstetrics-Gynecology,4
+2320,321,Surgery,Gastroenterology,1
+2321,1000,Surgery,Obstetrics-Gynecology,0
+2322,2322,Surgery,Cardiovascular-Pulmonary,1
+2323,1197,Surgery,Orthopedic,2
+2324,172,Surgery,Surgery,0
+2325,2325,Surgery,Gastroenterology,4
+2326,947,Surgery,Neurosurgery,1
+2327,2327,Surgery,Surgery,2
+2328,2328,Surgery,Surgery,2
+2329,2329,Surgery,Surgery,1
+2330,2330,Surgery,Surgery,4
+2331,2331,Surgery,Cardiovascular-Pulmonary,4
+2332,2332,Surgery,Surgery,0
+2333,974,Surgery,Neurosurgery,0
+2334,2334,Surgery,Neurology,3
+2335,1455,Surgery,Orthopedic,1
+2336,2336,Surgery,Surgery,0
+2337,2337,Surgery,Orthopedic,1
+2338,1241,Surgery,Surgery,3
+2339,2339,Surgery,Surgery,2
+2340,391,Surgery,Gastroenterology,3
+2341,331,Surgery,Gastroenterology,3
+2342,401,Surgery,Gastroenterology,4
+2343,1017,Surgery,Obstetrics-Gynecology,0
+2344,252,Surgery,Cardiovascular-Pulmonary,4
+2345,2345,Surgery,Gastroenterology,3
+2346,2346,Surgery,Surgery,3
+2347,932,Surgery,Gastroenterology,1
+2348,2348,Surgery,Surgery,2
+2349,2349,Surgery,Surgery,0
+2350,302,Surgery,Dermatology,0
+2351,2351,Surgery,Surgery,1
+2352,1426,Surgery,Surgery,4
+2353,492,Surgery,Cardiovascular-Pulmonary,1
+2354,2354,Surgery,Surgery,4
+2355,2355,Surgery,Cardiovascular-Pulmonary,2
+2356,88,Surgery,Cardiovascular-Pulmonary,4
+2357,2357,Surgery,Surgery,4
+2358,902,Surgery,Neurosurgery,2
+2359,165,Surgery,Cardiovascular-Pulmonary,4
+2360,2360,Surgery,Cardiovascular-Pulmonary,2
+2361,2361,Surgery,Surgery,3
+2362,2362,Surgery,Cardiovascular-Pulmonary,3
+2363,2363,Surgery,Surgery,0
+2364,2364,Surgery,Surgery,0
+2365,2365,Surgery,Surgery,1
+2366,412,Surgery,Gastroenterology,0
+2367,454,Surgery,Gastroenterology,3
+2368,908,Surgery,Neurosurgery,4
+2369,2369,Surgery,Orthopedic,2
+2370,441,Surgery,Gastroenterology,1
+2371,1671,Surgery,Radiology,3
+2372,1343,Surgery,Orthopedic,3
+2373,2373,Surgery,Gastroenterology,2
+2374,2374,Surgery,Surgery,3
+2375,468,Surgery,Gastroenterology,4
+2376,1349,Surgery,Orthopedic,3
+2377,58,Surgery,Cardiovascular-Pulmonary,0
+2378,2378,Surgery,Neurosurgery,1
+2379,1112,Surgery,Ophthalmology,2
+2380,286,Surgery,Cardiovascular-Pulmonary,3
+2381,1191,Surgery,Orthopedic,2
+2382,1313,Surgery,Surgery,3
+2383,2383,Surgery,Surgery,1
+2384,435,Surgery,Gastroenterology,3
+2385,377,Surgery,Gastroenterology,0
+2386,448,Surgery,Gastroenterology,2
+2387,1412,Surgery,Orthopedic,4
+2388,2388,Surgery,Surgery,4
+2389,1020,Surgery,Obstetrics-Gynecology,3
+2390,963,Surgery,Cardiovascular-Pulmonary,2
+2391,901,Surgery,Neurosurgery,1
+2392,197,Surgery,Surgery,4
+2393,2393,Surgery,Surgery,1
+2394,1351,Surgery,Orthopedic,4
+2395,1326,Surgery,Orthopedic,2
+2396,2396,Surgery,Surgery,0
+2397,179,Surgery,Cardiovascular-Pulmonary,4
+2398,71,Surgery,Cardiovascular-Pulmonary,4
+2399,2399,Surgery,Surgery,3
+2400,2400,Surgery,Surgery,4
+2401,2401,Surgery,Orthopedic,4
+2402,2402,Surgery,Surgery,2
+2403,469,Surgery,Gastroenterology,1
+2404,1021,Surgery,Obstetrics-Gynecology,3
+2405,2405,Surgery,Surgery,0
+2406,2406,Surgery,Surgery,0
+2407,2407,Surgery,Surgery,1
+2408,1113,Surgery,Ophthalmology,3
+2409,2409,Surgery,Surgery,2
+2410,1234,Surgery,Orthopedic,0
+2411,100,Surgery,Cardiovascular-Pulmonary,3
+2412,194,Surgery,Cardiovascular-Pulmonary,1
+2413,236,Surgery,Cardiovascular-Pulmonary,1
+2414,2414,Surgery,Gastroenterology,3
+2415,489,Surgery,Surgery,0
+2416,1431,Surgery,Surgery,4
+2417,348,Surgery,Gastroenterology,1
+2418,1141,Surgery,Ophthalmology,2
+2419,2419,Surgery,Gastroenterology,4
+2420,2420,Surgery,Orthopedic,0
+2421,2421,Surgery,Surgery,1
+2422,2279,Surgery,Obstetrics-Gynecology,4
+2423,2423,Surgery,Surgery,2
+2424,2424,Surgery,Cardiovascular-Pulmonary,2
+2425,1215,Surgery,Surgery,4
+2426,2426,Surgery,Surgery,3
+2427,1350,Surgery,Orthopedic,1
+2428,2428,Surgery,Surgery,1
+2429,1027,Surgery,Obstetrics-Gynecology,3
+2430,1072,Surgery,Surgery,0
+2431,1140,Surgery,Ophthalmology,1
+2432,956,Surgery,Neurosurgery,1
+2433,1423,Surgery,Surgery,3
+2434,2434,Surgery,Surgery,3
+2435,1372,Surgery,Orthopedic,1
+2436,2436,Surgery,Surgery,4
+2437,2437,Surgery,Surgery,3
+2438,2438,Surgery,Surgery,2
+2439,280,Surgery,Cardiovascular-Pulmonary,0
+2440,89,Surgery,Cardiovascular-Pulmonary,0
+2441,2441,Surgery,Surgery,0
+2442,1069,Surgery,Obstetrics-Gynecology,4
+2443,1370,Surgery,Orthopedic,0
+2444,2444,Surgery,Surgery,4
+2445,239,Surgery,Cardiovascular-Pulmonary,2
+2446,1124,Surgery,Ophthalmology,2
+2447,1023,Surgery,Obstetrics-Gynecology,2
+2448,1034,Surgery,Obstetrics-Gynecology,2
+2449,1256,Surgery,Orthopedic,0
+2450,1280,Surgery,Orthopedic,2
+2451,2451,Surgery,Surgery,1
+2452,1220,Surgery,Orthopedic,2
+2453,2453,Surgery,Surgery,4
+2454,1148,Surgery,Ophthalmology,2
+2455,358,Surgery,Gastroenterology,1
+2456,1145,Surgery,Ophthalmology,4
+2457,2457,Surgery,Surgery,1
+2458,2458,Surgery,Surgery,2
+2459,1417,Surgery,Orthopedic,0
+2460,731,Surgery,Orthopedic,0
+2461,2461,Surgery,Surgery,2
+2462,408,Surgery,Gastroenterology,1
+2463,2463,Surgery,Orthopedic,0
+2464,2464,Surgery,Surgery,3
+2465,2465,Surgery,Surgery,1
+2466,14,Surgery,Cardiovascular-Pulmonary,3
+2467,2467,Surgery,Surgery,0
+2468,1435,Surgery,Orthopedic,0
+2469,2469,Surgery,Surgery,2
+2470,2470,Surgery,Surgery,3
+2471,2471,Surgery,Surgery,4
+2472,971,Surgery,Neurosurgery,3
+2473,995,Surgery,Surgery,1
+2474,493,Surgery,Gastroenterology,3
+2475,2475,Surgery,Surgery,1
+2476,250,Surgery,Cardiovascular-Pulmonary,4
+2477,2477,Surgery,Neurosurgery,2
+2478,758,Surgery,Surgery,0
+2479,147,Surgery,Cardiovascular-Pulmonary,3
+2480,369,Surgery,Gastroenterology,0
+2481,1311,Surgery,Surgery,1
+2482,46,Surgery,Cardiovascular-Pulmonary,3
+2483,895,Surgery,Surgery,1
+2484,776,Surgery,Neurosurgery,1
+2485,2485,Surgery,Surgery,3
+2486,1091,Surgery,Obstetrics-Gynecology,4
+2487,2487,Surgery,Cardiovascular-Pulmonary,1
+2488,2488,Surgery,Surgery,0
+2489,2489,Surgery,Cardiovascular-Pulmonary,1
+2490,145,Surgery,Cardiovascular-Pulmonary,4
+2491,382,Surgery,Gastroenterology,0
+2492,1410,Surgery,Orthopedic,2
+2493,1436,Surgery,Orthopedic,1
+2494,1018,Surgery,Surgery,2
+2495,1719,Surgery,Obstetrics-Gynecology,3
+2496,188,Surgery,Surgery,1
+2497,2497,Surgery,Surgery,4
+2498,1226,Surgery,Orthopedic,1
+2499,1188,Surgery,Orthopedic,0
+2500,1150,Surgery,Ophthalmology,4
+2501,139,Surgery,Cardiovascular-Pulmonary,0
+2502,1271,Surgery,Orthopedic,0
+2503,1334,Surgery,Orthopedic,0
+2504,1374,Surgery,Orthopedic,2
+2505,2505,Surgery,Surgery,0
+2506,2506,Surgery,Neurosurgery,1
+2507,2507,Surgery,Surgery,2
+2508,1380,Surgery,Orthopedic,4
+2509,2509,Surgery,Surgery,0
+2510,1065,Surgery,Obstetrics-Gynecology,3
+2511,2511,Surgery,Surgery,2
+2512,2512,Surgery,Surgery,1
+2513,2513,Surgery,Surgery,4
+2514,254,Surgery,Cardiovascular-Pulmonary,2
+2515,2515,Surgery,Obstetrics-Gynecology,3
+2516,1090,Surgery,Surgery,3
+2517,1392,Surgery,Orthopedic,3
+2518,2518,Surgery,Surgery,3
+2519,2519,Surgery,Surgery,4
+2520,352,Surgery,Gastroenterology,1
+2521,934,Surgery,Neurosurgery,2
+2522,2522,Surgery,Cardiovascular-Pulmonary,1
+2523,1088,Surgery,Obstetrics-Gynecology,4
+2524,389,Surgery,Gastroenterology,3
+2525,434,Surgery,Gastroenterology,4
+2526,1085,Surgery,Surgery,3
+2527,2527,Surgery,Surgery,3
+2528,952,Surgery,Neurosurgery,2
+2529,1341,Surgery,Orthopedic,3
+2530,2530,Surgery,Surgery,0
+2531,832,Surgery,Neurosurgery,4
+2532,2532,Surgery,Surgery,1
+2533,2533,Surgery,Obstetrics-Gynecology,4
+2534,2534,Surgery,Orthopedic,0
+2535,2535,Surgery,Surgery,3
+2536,2536,Surgery,Surgery,4
+2537,2537,Surgery,Obstetrics-Gynecology,2
+2538,347,Surgery,Surgery,1
+2539,1097,Surgery,Obstetrics-Gynecology,0
+2540,2540,Surgery,Surgery,3
+2541,394,Surgery,Gastroenterology,1
+2542,303,Surgery,Dermatology,4
+2543,2543,Surgery,Orthopedic,2
+2544,1214,Surgery,Orthopedic,4
+2545,1243,Surgery,Orthopedic,2
+2546,859,Surgery,Surgery,0
+2547,2547,Surgery,Surgery,2
+2548,381,Surgery,Surgery,3
+2549,270,Surgery,Surgery,4
+2550,1459,Surgery,Orthopedic,3
+2551,176,Surgery,Cardiovascular-Pulmonary,2
+2552,446,Surgery,Gastroenterology,1
+2553,1176,Surgery,Ophthalmology,4
+2554,311,Surgery,Surgery,2
+2555,1083,Surgery,Obstetrics-Gynecology,2
+2556,364,Surgery,Gastroenterology,1
+2557,2557,Surgery,Surgery,4
+2558,1354,Surgery,Orthopedic,4
+2559,1059,Surgery,Obstetrics-Gynecology,2
+2560,2560,Surgery,Orthopedic,2
+2561,2561,Surgery,Surgery,0
+2562,2562,Surgery,Ophthalmology,2
+2563,81,Surgery,Cardiovascular-Pulmonary,0
+2564,2564,Surgery,Surgery,3
+2565,2565,Surgery,Surgery,1
+2566,37,Surgery,Cardiovascular-Pulmonary,0
+2567,1160,Surgery,Ophthalmology,4
+2568,23,Surgery,Gastroenterology,0
+2569,2569,Surgery,Surgery,0
+2570,105,Surgery,Cardiovascular-Pulmonary,4
+2571,1011,Surgery,Obstetrics-Gynecology,1
+2572,1325,Surgery,Orthopedic,2
+2573,1213,Surgery,Orthopedic,1
+2574,1137,Surgery,Ophthalmology,3
+2575,166,Surgery,Cardiovascular-Pulmonary,1
+2576,2576,Surgery,Gastroenterology,3
+2577,463,Surgery,Gastroenterology,0
+2578,2578,Surgery,Surgery,4
+2579,2579,Surgery,Orthopedic,1
+2580,1207,Surgery,Surgery,1
+2581,2581,Surgery,Surgery,0
+2582,2582,Surgery,Surgery,4
+2583,1194,Surgery,Orthopedic,0
+2584,428,Surgery,Gastroenterology,0
+2585,2585,Surgery,Surgery,1
+2586,1159,Surgery,Ophthalmology,1
+2587,235,Surgery,Cardiovascular-Pulmonary,3
+2588,151,Surgery,Surgery,3
+2589,16,Surgery,Cardiovascular-Pulmonary,4
+2590,2590,Surgery,Surgery,0
+2591,2591,Surgery,Obstetrics-Gynecology,4
+2592,953,Surgery,Neurosurgery,3
+2593,2593,Surgery,Surgery,1
+2594,465,Surgery,Gastroenterology,0
+2595,2595,Surgery,Surgery,3
+2596,912,Surgery,Neurosurgery,2
+2597,1266,Surgery,Orthopedic,1
+2598,2598,Surgery,Surgery,2
+2599,2599,Surgery,Surgery,0
+2600,2600,Surgery,Surgery,1
+2601,43,Surgery,Cardiovascular-Pulmonary,1
+2602,1025,Surgery,Surgery,4
+2603,1338,Surgery,Orthopedic,1
+2604,1111,Surgery,Ophthalmology,1
+2605,400,Surgery,Gastroenterology,2
+2606,154,Surgery,Cardiovascular-Pulmonary,3
+2607,482,Surgery,Gastroenterology,3
+2608,2608,Surgery,Neurosurgery,2
+2609,371,Surgery,Surgery,2
+2610,962,Surgery,Neurosurgery,0
+2611,1206,Surgery,Orthopedic,1
+2612,259,Surgery,Cardiovascular-Pulmonary,0

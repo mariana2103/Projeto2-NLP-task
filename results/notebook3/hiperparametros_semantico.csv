@@ -1,0 +1,4 @@
+name,encoder,embedding_size,max_seq_length,truncation,input,classifier,C,max_iter,class_weights,device
+Sem_MiniLM_head,sentence-transformers/all-MiniLM-L6-v2,384,256,head,description | sample_name | keywords (1st stripped) | transcription,LogisticRegression,1.0,3000,q=1 (balanced),mps
+Sem_S_head,pritamdeka/S-PubMedBert-MS-MARCO,768,350,head,description | sample_name | keywords (1st stripped) | transcription,LogisticRegression,1.0,3000,q=1 (balanced),mps
+Sem_S_head_tail,pritamdeka/S-PubMedBert-MS-MARCO,768,350,head_tail,description | sample_name | keywords (1st stripped) | transcription,LogisticRegression,1.0,3000,q=1 (balanced),mps

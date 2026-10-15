@@ -1,0 +1,18 @@
+{
+ "classifier": "svm",
+ "c": 1,
+ "q": 1,
+ "keywords": "strip",
+ "sections": false,
+ "weights": {
+  "description_word": 1.0,
+  "description_char": 0.5,
+  "sample_name_word": 1.0,
+  "sample_name_char": 0.5,
+  "keywords_word": 1.0,
+  "keywords_char": 0.5,
+  "transcription_word": 1.0,
+  "transcription_char": 0.5
+ },
+ "augmentation": "copy"
+}

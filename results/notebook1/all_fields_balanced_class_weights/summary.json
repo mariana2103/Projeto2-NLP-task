@@ -7,7 +7,7 @@
   "min_f1": 0.4472573839662447,
   "meets_thresholds": true,
   "folds_meeting_thresholds": 5,
-  "seconds": 33.31361979001667,
+  "seconds": 75.96503179198771,
   "fold_mean": {
     "accuracy": 0.5927863928349975,
     "macro_f1": 0.6293499804463736,

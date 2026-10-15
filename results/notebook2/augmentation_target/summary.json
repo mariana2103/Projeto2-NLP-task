@@ -1,0 +1,37 @@
+{
+  "accuracy": 0.5928052047455032,
+  "macro_precision": 0.59568278975665,
+  "macro_recall": 0.6809926048816343,
+  "macro_f1": 0.6238985825637358,
+  "weighted_f1": 0.5819506346936156,
+  "min_f1": 0.36649214659685864,
+  "meets_thresholds": true,
+  "folds_meeting_thresholds": 5,
+  "seconds": 512.9602597509947,
+  "fold_mean": {
+    "accuracy": 0.5927945530596617,
+    "macro_f1": 0.6217256522460151,
+    "min_f1": 0.36015151515151517
+  },
+  "fold_std": {
+    "accuracy": 0.011147344556201212,
+    "macro_f1": 0.031475199923560786,
+    "min_f1": 0.05710935493042564
+  },
+  "equal_group_weight_metrics": {
+    "accuracy": 0.65056258790436,
+    "macro_precision": 0.6347421433811195,
+    "macro_recall": 0.7023375258741392,
+    "macro_f1": 0.6576744473181539,
+    "weighted_f1": 0.6459106811992673,
+    "min_f1": 0.34682080924855485,
+    "meets_thresholds": true
+  },
+  "augmented_cases_per_fold": [
+    317,
+    327,
+    310,
+    317,
+    321
+  ]
+}
