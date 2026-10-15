@@ -23,7 +23,7 @@ from parte1_base import (class_weights, csv_fields, data, measure, prepare_texts
                          save_evaluation, specialties, splits)
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "Parte2_resultados"
+OUT = ROOT / "results" / "notebook2"
 OUT.mkdir(exist_ok=True)
 BT_CACHE = ROOT / "data" / "backtranslation_cache.json"
 

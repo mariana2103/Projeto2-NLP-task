@@ -28,7 +28,7 @@ from threadpoolctl import threadpool_limits
 
 # (changed) look for train.csv in StudentsPack/, the project folder or the current folder
 _here = Path(__file__).resolve().parent
-folder = next((f for f in [_here.parent / 'StudentsPack', _here.parent, Path.cwd()] if (f / 'train.csv').exists()), _here.parent / 'StudentsPack')
+folder = next((f for f in [_here.parent / 'data', _here.parent / 'StudentsPack', _here.parent, Path.cwd()] if (f / 'train.csv').exists()), _here.parent / 'StudentsPack')
 
 csv_fields = ['description', 'sample_name', 'keywords', 'transcription']
 
